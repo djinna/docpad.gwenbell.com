@@ -46,10 +46,6 @@ html(lang="en")
 
     // Icons
     link(rel="shortcut icon", href="ico/favicon.ico")
-    link(rel="apple-touch-icon-precomposed", sizes="144x144", href="ico/apple-touch-icon-144-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", sizes="114x114", href="ico/apple-touch-icon-114-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", sizes="72x72", href="ico/apple-touch-icon-72-precomposed.png")
-    link(rel="apple-touch-icon-precomposed", href="ico/apple-touch-icon-57-precomposed.png")
 
     //- Shims: IE6-8 support of HTML5 elements
     //if lt IE 9
@@ -64,18 +60,36 @@ html(lang="en")
     .navbar.navbar-fixed-top
       .navbar-inner
         .container
-          a.brand(href="/") Welcome
+          a.brand(href="/") Gwen Bell
           ul.nav
             each doc in getCollection('pages').toJSON()
               - clazz = (document.url === doc.url) ? 'active' : null
               li(typeof="sioc:Page", about=doc.url, class=clazz)
                 a(href=doc.url, property="dc:title")= doc.title
-    .container
-      section#content.content!= content
-      hr
-      footer
-        div= site.copyright
-        div(style="font-style:italic; font-size: 12px") This website was last updated at #{site.date}
 
+    .container-fluid
+      .row-fluid.row
+        .span3
+          .well.sidebar-nav-fixed
+            <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=420" class="img-polaroid" width="80%" style="margin-left: 8%; margin-top: .8em; margin-bottom: .8em;" />
+            ul.nav.nav-list
+              li.nav-header Writing
+                each doc in getCollection('posts').toJSON()
+                  li
+                    a(href=doc.url)= doc.title
+              li.nav-header Programming
+              li 
+                :markdown
+                  [Github](http://github.com/gwenbell)
+                  
+                
+        
+        .span7
+          section#content.content!= content
+          hr
+
+
+
+      
     // Scripts
     != scripts.toHTML()

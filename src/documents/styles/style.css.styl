@@ -1,8 +1,28 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url(/vendor/font/OpenSans-Regular.ttf);
+}
+
+h1, h2, h3, h4 {
+	font-weight: 400;
+	font-family: 'Open Sans';
+}
+
+p, li {
+	font-weight: 400;
+	font-family: 'Open Sans';
+}
+
+.navbar-inner {
+}
+
 a, a:link
   cursor pointer
 
 body
   padding-top 60px
+  padding-bottom 40px
+
 
 table
   tfoot, tbody
@@ -10,4 +30,17 @@ table
       border-top 1px solid #DDD
 
 footer
-  padding-bottom: 30px
+  padding-bottom 30px
+
+.sidebar-nav-fixed
+  padding 9px 0
+  position fixed
+  left 20px
+  top 60px
+  width 250px
+
+.row-fluid > .span-fixed-sidebar
+  margin-left 290px
+
+
+

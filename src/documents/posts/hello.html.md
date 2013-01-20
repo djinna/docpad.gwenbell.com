@@ -1,7 +1,6 @@
 ---
-title: This is a Blog Post
+title: How Technology Works
 layout: post
 tags: ['intro','post']
 ---
 
-This is a **blog post**
