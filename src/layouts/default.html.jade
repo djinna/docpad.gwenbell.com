@@ -10,7 +10,7 @@
 
 //- Bootstrap
 - scripts.add(["/vendor/twitter-bootstrap/js/bootstrap.js"])
-- styles.add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css"])
+- styles.add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/vendor/twitter-bootstrap/css/font-awesome.min.css"])
 
 //- Other Scripts
 - scripts.add(["/vendor/log.js","/vendor/modernizr.js"])
@@ -38,8 +38,6 @@ html(lang="en")
     meta(name="keywords", content=getPreparedKeywords())
     meta(name="author", content=site.author || '')
 
-    //- Output DocPad produced meta elements
-    != getBlock('meta').toHTML()
 
     //- Mobile viewport optimized: h5bp.com/viewport
     meta(name="viewport", content="width=device-width")
@@ -57,34 +55,29 @@ html(lang="en")
   body
 
     // Markup
-    .navbar.navbar-fixed-top
+    .navbar.navbar-fixed-top.navbar-inverse
       .navbar-inner
         .container
-          a.brand(href="/") Gwen Bell
-          ul.nav
-            each doc in getCollection('pages').toJSON()
-              - clazz = (document.url === doc.url) ? 'active' : null
-              li(typeof="sioc:Page", about=doc.url, class=clazz)
-                a(href=doc.url, property="dc:title")= doc.title
+          .row-fluid.row
+            .span8.offset3
+              a.brand('/') <i class="icon-home"></i>
+              ul.nav
+                li <a href="/">Gwen Bell</a>
+                each doc in getCollection('pages').toJSON()
+                  - clazz = (document.url === doc.url) ? 'active' : null
+                  li(typeof="sioc:Page", about=doc.url, class=clazz)
+                    a(href=doc.url, property="dc:title")= doc.title
+                
+                li <a href="http://github.com/gwenbell" target="_blank"><i class="icon-github-alt"></i> Github</a>
+                li <a href="https://pinboard.in/u:gwenbell/" target="_blank"><i class="icon-pushpin"></i> Mindstream</a>
+                li <a href="/atom.xml"><i class="icon-rss" target="_blank"></i> Subscribe</a>
 
     .container-fluid
       .row-fluid.row
-        .span3
-          .well.sidebar-nav-fixed
-            <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=420" class="img-polaroid" width="80%" style="margin-left: 8%; margin-top: .8em; margin-bottom: .8em;" />
-            ul.nav.nav-list
-              li.nav-header Writing
-                each doc in getCollection('posts').toJSON()
-                  li
-                    a(href=doc.url)= doc.title
-              li.nav-header Programming
-              li 
-                :markdown
-                  [Github](http://github.com/gwenbell)
-                  
-                
         
-        .span7
+        .span6.offset3
+          .centerimg
+            <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=120" class="img-circle" />
           section#content.content!= content
           hr
 

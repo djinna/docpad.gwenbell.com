@@ -1,28 +1,23 @@
 @font-face {
 	font-family: 'Open Sans';
-	src: url(/vendor/font/OpenSans-Regular.ttf);
+	src: url(/vendor/twitter-bootstrap/font/OpenSans-Regular.ttf);
 }
-
-h1, h2, h3, h4 {
-	font-weight: 400;
-	font-family: 'Open Sans';
-}
-
-p, li {
-	font-weight: 400;
-	font-family: 'Open Sans';
-}
-
-.navbar-inner {
-}
-
-a, a:link
-  cursor pointer
 
 body
+  background-image url("/sketch.png")
   padding-top 60px
   padding-bottom 40px
 
+
+h1, h2, h3, h4 {
+  color: #8A496B;
+	font-weight: 400;
+	font-family: 'Open Sans';
+} 
+
+p, li 
+	font-weight 400
+	font-family 'Open Sans'
 
 table
   tfoot, tbody
@@ -32,15 +27,21 @@ table
 footer
   padding-bottom 30px
 
-.sidebar-nav-fixed
-  padding 9px 0
-  position fixed
-  left 20px
-  top 60px
-  width 250px
-
 .row-fluid > .span-fixed-sidebar
   margin-left 290px
 
+a, a:link 
+  color: #DE5285
 
+a:hover
+  color: #000
 
+.stream p:first-child
+  font-size 2em
+
+.centerimg
+  width 10em
+  margin-top 2em
+  margin-bottom 2em 
+  margin-left auto 
+  margin-right auto

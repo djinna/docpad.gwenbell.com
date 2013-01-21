@@ -1,7 +1,11 @@
 ---
 title: Contact
 layout: page
-pageOrder: 5
+pageOrder: 3
 ---
 
-In person > IRC: gwenbell on freenode > Email: gwen@gwenbell.com
+Email: gwen@gwenbell.com
+
+Skype: [gwendolynbell](skype:gwendolynbell)
+
+IRC: gwenbell
