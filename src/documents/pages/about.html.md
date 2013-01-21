@@ -5,7 +5,7 @@ tags: ['intro','page']
 pageOrder: 1
 ---
 
-Hi. I'm Gwen Bell. 
+Hi. I'm Gwen Bell. Writer, traveler, beginner programmer, rope jumper,  tea drinker (I prefer darkest of the dark pu erh, sencha, yerba mate, opinionated teas of all sort). Most recent interests include meat, as I've come off twelve years of vegetarianism to find out meat's pretty alright.
 
 Tech
 ---
