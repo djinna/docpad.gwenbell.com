@@ -1,9 +1,13 @@
 --- 
 layout: 'default'
-title: 'Home'
+title: 'Stream'
 ---
-Live Stream
----
+
+<p class="lead"><i class="icon-quote-left icon-large"></i> 7:43p 20 January 2013 | Drake. Coffee. Code.</p>
+
+1:47p 20 January 2013 | Tired, but getting somewhere. Mate mug two. Probably nap o'clock.
+
+2:09a 20 January 2013 | Joking around about Ruby, rubbing in the frankincense & myrrh shea butter, watching breath and posture. Late nights, quiet time for coding.
 
 1:51a 19 January 2013 | Writing, shaping, pruning, stretching
 
