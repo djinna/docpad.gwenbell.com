@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 7:43p 20 January 2013 | Drake. Coffee. Code.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 12:03p 22 January 2013 | New site live, testing Byobu.</p>
+
+7:43p 20 January 2013 | Drake. Coffee. Code.
 
 1:47p 20 January 2013 | Tired, but getting somewhere. Mate mug two. Probably nap o'clock.
 
