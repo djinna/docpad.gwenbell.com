@@ -3,11 +3,6 @@
 	src: url(/vendor/twitter-bootstrap/font/OpenSans-Regular.ttf);
 }
 
-@font-face {
-  font-family: 'Pill Gothic';
-  src: url(/vendor/twitter-bootstrap/font/PillGothic300mg-Regular.otf)
-}
-
 body
   background-image url("/sketch.png")
   padding-top 60px
@@ -16,7 +11,8 @@ body
 
 h1, h2, h3, h4 {
   color: #444;
-	font-family: 'Pill Gothic';
+  text-transform: uppercase;
+	font-family: 'Open Sans';
 } 
 
 p, li 
@@ -45,7 +41,21 @@ a:hover
 
 .centerimg
   width 10em
-  margin-top 2em
-  margin-bottom 2em 
   margin-left auto 
   margin-right auto
+
+.gradient 
+  width 100%
+  background: #c06;
+  background: linear-gradient(45deg, #c06, #636)
+  background: -webkit-gradient(linear, left bottom, right top, from(#c06), to(#636));
+  margin-top: -2em
+  margin-bottom 2em
+  padding-top 2.1em
+  padding-bottom .5em
+  height 10em
+
+
+.img-circle
+  border 3px solid white
+

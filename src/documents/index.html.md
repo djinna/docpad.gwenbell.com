@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 12:03p 22 January 2013 | New site live, testing Byobu.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 12:09a 23 January 2013 Yes gradients! And Mumford+Sons!</p>
+
+12:03p 22 January 2013 | New site live, testing Byobu.
 
 7:43p 20 January 2013 | Drake. Coffee. Code.
 
