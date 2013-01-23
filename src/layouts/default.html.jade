@@ -60,9 +60,8 @@ html(lang="en")
         .container
           .row-fluid.row
             .span8.offset3
-              a.brand('/') <i class="icon-home"></i>
+              a.brand('/') Gwen Bell
               ul.nav
-                li <a href="/">Gwen Bell</a>
                 each doc in getCollection('pages').toJSON()
                   - clazz = (document.url === doc.url) ? 'active' : null
                   li(typeof="sioc:Page", about=doc.url, class=clazz)
