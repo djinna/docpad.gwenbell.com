@@ -3,6 +3,11 @@
 	src: url(/vendor/twitter-bootstrap/font/OpenSans-Regular.ttf);
 }
 
+@font-face {
+  font-family: 'Ubuntu';
+  src: url(/vendor/twitter-bootstrap/font/Ubuntu-Light.ttf);
+}
+
 body
   background-image url("/sketch.png")
   padding-top 60px
@@ -11,9 +16,8 @@ body
 
 h1, h2, h3, h4 {
   color: #444;
-  text-transform: uppercase;
-	font-family: 'Open Sans';
-} 
+	font-family: 'Ubuntu';
+}
 
 p, li 
 	font-weight 400
@@ -39,11 +43,6 @@ a:hover
 .stream p:first-child
   font-size 2em
 
-.centerimg
-  width 10em
-  margin-left auto 
-  margin-right auto
-
 .gradient 
   width 100%
   background: #c06;
@@ -59,3 +58,9 @@ a:hover
 .img-circle
   border 3px solid white
 
+.title
+  color #fff
+  font-family 'Ubuntu'
+  font-size 5em
+  margin-top: .65em
+  padding-left: 2em

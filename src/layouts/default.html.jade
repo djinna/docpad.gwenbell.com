@@ -59,8 +59,8 @@ html(lang="en")
       .navbar-inner
         .container
           .row-fluid.row
-            .span8.offset2
-              a.brand(href="/") Gwen Bell
+            .span8.offset3
+              a.brand(href="/") <i class="icon-home"></i>
               ul.nav
                 each doc in getCollection('pages').toJSON()
                   - clazz = (document.url === doc.url) ? 'active' : null
@@ -72,8 +72,12 @@ html(lang="en")
                 li <a href="/atom.xml"><i class="icon-rss" target="_blank"></i> Subscribe</a>
 
     .gradient
-      .centerimg
-        <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=120" class="img-circle" />       
+      .container-fluid
+        .row-fluid.row
+          .span6.offset3
+            <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=120" class="img-circle pull-left" />
+              
+            h1.title Gwen Bell    
 
     .container-fluid
       .row-fluid.row

@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 12:09a 23 January 2013 Yes gradients! And Mumford+Sons!</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 2:09a 23 January 2013 | Eating brats, coding, deploying.</p>
+
+12:09a 23 January 2013 | Yes gradients! And Mumford+Sons!
 
 12:03p 22 January 2013 | New site live, testing Byobu.
 
