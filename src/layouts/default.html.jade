@@ -59,16 +59,14 @@ html(lang="en")
       .navbar-inner
         .container
           .row-fluid.row
-            .span8.offset2
-              a.brand(href="/") <i class="icon-home"></i>
+            .span8.offset3
+              a.brand(href="/") Gwen Bell
               ul.nav
                 each doc in getCollection('pages').toJSON()
                   - clazz = (document.url === doc.url) ? 'active' : null 
                   li(typeof="sioc:Page", about=doc.url, class=clazz)
                     a(href=doc.url, property="dc:title")= doc.title 
                 
-                li <a href="http://github.com/gwenbell" target="_blank"><i class="icon-github-alt"></i> Github</a>
-                li <a href="https://pinboard.in/u:gwenbell/" target="_blank"><i class="icon-pushpin"></i> Resources</a>
                 li <a href="/atom.xml"><i class="icon-rss" target="_blank"></i> Subscribe</a>
 
   .container
