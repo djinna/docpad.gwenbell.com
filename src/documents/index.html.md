@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 2:09a 23 January 2013 | Eating brats, coding, deploying.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 6:19p 26 January 2013 | Published [new about](http://gwenbell.com/pages/about)</p>
+
+2:09a 23 January 2013 | Eating brats, coding, deploying.
 
 12:09a 23 January 2013 | Yes gradients! And Mumford+Sons!
 
