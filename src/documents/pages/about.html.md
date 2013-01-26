@@ -6,11 +6,11 @@ pageOrder: 1
 ---
 
 > 'Ring the bells
-> that still can ring
+> that still can ring /
 > Forget your perfect
-> offering
+> offering /
 > There is a crack
-> in everything
+> in everything /
 > That's how the light
 > gets in.'
 
