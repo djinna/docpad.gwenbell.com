@@ -4,7 +4,7 @@ layout: page
 pageOrder: 3
 ---
 
-Email | [gwen@gwenbell.com](mailto: gwen@gwenbell.com)
+Email | [gwen@gwenbell.com](mailto:gwen@gwenbell.com)
 
 Github | [gwenbell](https://github.com/gwenbell)
 
