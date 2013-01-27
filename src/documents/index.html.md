@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 7:01p 26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 10:32a 27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended with syrup.</p>
+
+7:01p 26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
 
 6:19p 26 January 2013 | Published [new about](http://gwenbell.com/pages/about)
 
