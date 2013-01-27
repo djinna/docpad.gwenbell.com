@@ -26,7 +26,26 @@ The purpose of git is multifold. Here are just a few reasons to commit some hour
 
 Multiple people can work on a single code base, tracking versions, minimizing the need for trust. I wish every project I'd ever worked on had been committed to git. If you'd like to get a sense of what I'm working on right now, you can see my [commits here](http://github.com/gwenbell/).
 
+You may take one look at git, or GitHub, and think it's all just programmers hanging out deploying all night and day. What on earth would you get out of that if you're not a programmer?
 
+To be a digital warrior in 2013, you have to learn to commit and deploy. It's time to learn computing fundamentals.
+
+Tools
+---
+
+**HTML & CSS**
+
+If you're just starting out and you're a visual learner, you might try a Visual Quickstart guide. I learned HTML and CSS from a [Visual Quickstart guide](http://search.barnesandnoble.com/HTML-XHTML-CSS/Elizabeth-Castro/e/9780321430847). I was in Japan, and though I'd published to a blog for a while, I was tired of the same boring LiveJournal templates. I decided to code my first website.
+
+As I watched Ari and Yuutsu, the brother and sister turtles, jump off their floating rock and try to climb out of their homemade tank, I learned the basics of coding. I just locked myself in until I got the basics. I know of no better way than to learn and publish until it looks how you want. 
+
+I wish there were an easier way. Two of the fundamental tools are CSS and HTML. Armed with these two tools you can build your own basic site, and feel the rush of excitement of having done so.
+
+**Git**
+
+I've already touched on this, and if you already know some HTML and CSS, next stop is to get a grasp on git. In addition to the Torvalds video above, Git Pro's a great [place to start](http://git-scm.com/book).
+
+//
 
 About Digital Warriorship
 ---
