@@ -43,7 +43,7 @@ html(lang="en")
     meta(name="viewport", content="width=device-width")
 
     // Icons
-    link(rel="shortcut icon", href="ico/favicon.ico")
+    link(rel="shortcut icon", href="/ico/favicon.ico")
 
     //- Shims: IE6-8 support of HTML5 elements
     //if lt IE 9
@@ -58,23 +58,24 @@ html(lang="en")
     .navbar.navbar-fixed-top
       .navbar-inner
         .container
-          .row-fluid.row
-            .span8.offset3
+          .row
+            .span10.offset1
               a.brand(href="/") Gwen Bell
               ul.nav
                 each doc in getCollection('pages').toJSON()
                   - clazz = (document.url === doc.url) ? 'active' : null 
                   li(typeof="sioc:Page", about=doc.url, class=clazz)
                     a(href=doc.url, property="dc:title")= doc.title 
-                
+
+              ul.nav.pull-right  
                 li <a href="/atom.xml"><i class="icon-rss" target="_blank"></i> Subscribe</a>
 
-  .container
-    .row
-      .span8.offset2
-        .centered 
-          <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=120" class="img-circle" />
-        section#content.content!= content
+    .container
+      .row
+        .span10.offset1
+          .centered 
+            <img src="https://secure.gravatar.com/avatar/7b0de19c44ac9483270eaafd16e89468?s=120" class="img-circle" />
+          section#content.content!= content
 
 
 
