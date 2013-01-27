@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> <p> 7:01p 26 January 2013 | Reading about [post-scarcity economy](http://edge.org/response-detail/23860)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 7:01p 26 January 2013 | Reading about [post-scarcity economy](http://edge.org/response-detail/23860)</p>
 
 
 6:19p 26 January 2013 | Published [new about](http://gwenbell.com/pages/about)
