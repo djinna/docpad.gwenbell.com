@@ -22,6 +22,6 @@ I've been watching Six Feet Under. The first time I tried to watch it, I couldn'
 
 That is the thing, showing up. But there's more. It's this ongoing thing they do, that the characters do, that we do. It's how I am able to continue ringing the bells: mourning the loss. It's giving myself empathy around the cracks, around the who I thought I could be, and am not. Around what I could have done, but did not. Empathy around how I thought the day could be going, and isn't.
 
-It is not some kind of stilted response to the world; it's an auto-adjust of my inner self to what's arising now. It's making an offering, anyway.
+It is not some kind of stilted response to the world; it's an auto-adjust of my inner self to what's arising now. It's making an offering, _anyway_.
 
 _January 2013_
