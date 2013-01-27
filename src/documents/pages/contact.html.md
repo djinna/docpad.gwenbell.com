@@ -4,8 +4,10 @@ layout: page
 pageOrder: 3
 ---
 
-Email: gwen@gwenbell.com
+Email | gwen@gwenbell.com
 
-Skype: [gwendolynbell](skype:gwendolynbell)
+Skype | [gwendolynbell](skype:gwendolynbell)
 
-IRC: gwenbell
+IRC | gwenbell
+
+Pinboard | [gwenbell](https://pinboard.in/u:gwenbell)
