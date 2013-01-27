@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 10:32a 27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended with syrup.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 10:42a 27 January 2013 | I would like to have [this song's](https://vevo.ly/qsBhIt) baby.</p>
+
+10:32a 27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
 
 7:01p 26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
 
