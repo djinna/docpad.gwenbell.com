@@ -4,16 +4,19 @@ layout: post
 tags: ['digitalwarriorship','post']
 ---
 
-I published _Digital Warriorship_, the first version - my first ebook - two years ago. I republished it in 2012. Now, here it is for 2013. 
+Intro
+---
 
-This is a guide to some ways you might approach your digital life as a warrior. It's the guide I live by, and I hope it'll help you as it helps me.
+I published _Digital Warriorship_ for the first time two years ago, in 2011. I republished it in 2012. Now, here it is for 2013. 
 
-I'm publishing it as I write it, starting 27 January 2013. The manuscript will change.
+This is a guide to some ways you might approach your digital life as a warrior. It's the guide I live by, and I hope it'll help you as it helps me. As with everything I've written, I hope you'll take what works for you and discard the rest.
+
+I'm publishing Digital Warriorship here as I write it, starting 27 January 2013. The manuscript will change.
 
 Guiding Principles/Faeries
 ---
 
-From 2011 to 2013 I've learned about a few technologies that have changed my worldview. Expanded it. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8) which took me from coaxing a mild interest into a full on fever. These two have served as sort of guiding faeries (dude, programmery faeries that is).
+From 2011 to 2013 I've learned about technologies that have changed my worldview. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8) which took me from coaxing a mild interest into a full on fever. These two have served as sort of guiding faeries (dude, programmery faeries that is).
 
 As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two.
 
@@ -24,26 +27,38 @@ Git In It
 
 The purpose of git is multifold. Here are just a few reasons to commit some hours to learning it.
 
-Multiple people can work on a single code base, tracking versions, minimizing the need for trust. I wish every project I'd ever worked on had been committed to git. If you'd like to get a sense of what I'm working on right now, you can see my [commits here](http://github.com/gwenbell/).
++  Multiple people can work on a single code base
++  Git tracks versions, letting you see a record of commits 
++  This minimizes the need for trust
+
+If you'd like to get a sense of what I'm working on right now, you can see my [commits here](http://github.com/gwenbell/).
 
 You may take one look at git, or GitHub, and think it's all just programmers hanging out deploying all night and day. What on earth would you get out of that if you're not a programmer?
 
-To be a digital warrior in 2013, you have to learn to commit and deploy. It's time to learn computing fundamentals.
+To practice digital warriorship in 2013, you have to commit and deploy, or at minimum know what those words mean. Let's start with fundamentals.
 
 Tools
 ---
 
 **HTML & CSS**
 
+Two of the fundamental tools are CSS and HTML. Armed with these two tools you can build your own basic site, and feel the rush of excitement of having done so.
+
 If you're just starting out and you're a visual learner, you might try a Visual Quickstart guide. I learned HTML and CSS from a [Visual Quickstart guide](http://search.barnesandnoble.com/HTML-XHTML-CSS/Elizabeth-Castro/e/9780321430847). I was in Japan, and though I'd published to a blog for a while, I was tired of the same boring LiveJournal templates. I decided to code my first website.
 
-As I watched Ari and Yuutsu, the brother and sister turtles, jump off their floating rock and try to climb out of their homemade tank, I learned the basics of coding. I just locked myself in until I got the basics. I know of no better way than to learn and publish until it looks how you want. 
+As I watched Ari and Yuutsu, the red eared sliders, jump off their floating rock and try to climb out of their homemade tank, I learned the basics of coding. I just locked myself in until I got the basics. I know of no better way than to learn and publish until it looks how you want. 
 
-I wish there were an easier way. Two of the fundamental tools are CSS and HTML. Armed with these two tools you can build your own basic site, and feel the rush of excitement of having done so.
+Along with books, I've enjoyed extending my skill set with [Codecademy](http://www.codecademy.com/). 
 
 **Git**
 
 I've already touched on this, and if you already know some HTML and CSS, next stop is to get a grasp on git. In addition to the Torvalds video above, Git Pro's a great [place to start](http://git-scm.com/book).
+
+**System**
+
+In 2012 I decided I'd gone as far as I want to go with Apple's operating system. While satisfied with the hardware I was no longer excited about the direction the OS was going. When I notice I'm irritated with one of my tools I start exploring other options.
+
+I started asking people about Linux. The more I learned, the more I realized I wanted to install it on my machine. I'm running a distribution (distro) of Linux - [Ubuntu](http://www.ubuntu.com/download). If you have the mind to do it, you can get Ubuntu onto a MacBook Air.
 
 //
 
