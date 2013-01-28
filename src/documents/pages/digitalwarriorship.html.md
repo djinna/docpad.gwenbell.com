@@ -84,3 +84,8 @@ I wrote the first version of Digital Warriorship from December 2010 to February 
 I wrote the second version in San Francisco, and updated it in Japan in 2012. The focus was on meeting your own needs before and while you are engaged in your digital worlds.
 
 The practice of digital warriorship is my life's work.
+
+Support the Work
+---
+
+<a class="coinbase-button" data-code="7e487cf04f7a4e514db7b84c373dbffb" data-button-style="custom_large" data-custom="DW012013" href="https://coinbase.com/checkouts/7e487cf04f7a4e514db7b84c373dbffb">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
