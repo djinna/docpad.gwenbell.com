@@ -1,15 +1,17 @@
 ---
 title: Contact
 layout: page
-pageOrder: 3
+pageOrder: 4
 ---
 
 Email | [gwen@gwenbell.com](mailto:gwen@gwenbell.com)
 
-Github | [gwenbell](https://github.com/gwenbell)
+GitHub | [gwenbell](https://github.com/gwenbell)
 
 Skype | [gwendolynbell](skype:gwendolynbell)
 
 Pinboard | [gwenbell](https://pinboard.in/u:gwenbell)
 
 IRC | gwenbell
+
+Myspace | [https://new.myspace.com/gwenbell](gwenbell)
