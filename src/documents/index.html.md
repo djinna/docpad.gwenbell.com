@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 10:42a 27 January 2013 | I would like to have [this song's](https://vevo.ly/qsBhIt) baby.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i>9:18p 27 January 2013 | Beauty of the hacker schedule: stillness in which to work.</p> 
+
+10:42a 27 January 2013 | I would like to have [this song's](https://vevo.ly/qsBhIt) baby.
 
 10:32a 27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
 
