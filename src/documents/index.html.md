@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i>9:18p 27 January 2013 | Beauty of the hacker schedule: stillness in which to work.</p> 
+<p class="lead"><i class="icon-quote-left icon-large"></i> 10:47p 27 January 2013 | Writing Digital Warriorship, version 3</p>
+
+9:18p 27 January 2013 | Beauty of the hacker schedule: stillness in which to work.
 
 10:42a 27 January 2013 | I would like to have [this song's](https://vevo.ly/qsBhIt) baby.
 
