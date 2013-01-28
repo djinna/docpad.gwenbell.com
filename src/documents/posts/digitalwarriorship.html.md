@@ -18,9 +18,9 @@ Guiding Principles/Faeries
 
 From 2011 to 2013 I've learned about technologies that have changed my worldview. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8) which took me from coaxing a mild interest into a full on fever. These two have served as sort of guiding faeries (dude, programmery faeries that is).
 
-As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two.
+As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two. As you'll see, each are passionate about a web that is open.
 
-Out of open/free comes a tool I've already mentioned, git. And from git, [GitHub](http://github.com/) emerged. There are open source versions of GitHub, none of which I prefer.
+Out of open/free comes a tool I've already mentioned, git. And from git, [GitHub](http://github.com/) emerged. Though itself not open source, GitHub hosts thousands of open source project repositories.
 
 Git In It
 --- 
