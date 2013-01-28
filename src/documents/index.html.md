@@ -3,30 +3,30 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 10:47p 27 January 2013 | Writing Digital Warriorship, version 3</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 27 January 2013 | Writing Digital Warriorship, version 3</p>
 
-9:18p 27 January 2013 | Beauty of the hacker schedule: stillness in which to work.
+27 January 2013 | Beauty of the hacker schedule: stillness in which to work.
 
-10:42a 27 January 2013 | I would like to have [this song's](https://vevo.ly/qsBhIt) baby.
+27 January 2013 | I would like to have [this song's](https://new.myspace.com/video/shake-it-out-108244544) baby.
 
-10:32a 27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
+27 January 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
 
-7:01p 26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
+26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
 
-6:19p 26 January 2013 | Published [new about](http://gwenbell.com/pages/about)
+26 January 2013 | Published [new about](http://gwenbell.com/pages/about)
 
-2:09a 23 January 2013 | Eating brats, coding, deploying.
+23 January 2013 | Eating brats, coding, deploying.
 
-12:09a 23 January 2013 | Yes gradients! And Mumford+Sons!
+23 January 2013 | Yes gradients! And Mumford+Sons!
 
-12:03p 22 January 2013 | New site live, testing Byobu.
+22 January 2013 | New site live, testing Byobu.
 
-7:43p 20 January 2013 | Drake. Coffee. Code.
+20 January 2013 | Drake. Coffee. Code.
 
-1:47p 20 January 2013 | Tired, but getting somewhere. Mate mug two. Probably nap o'clock.
+20 January 2013 | Tired, but getting somewhere. Mate mug two. Probably nap o'clock.
 
-2:09a 20 January 2013 | Joking around about Ruby, rubbing in the frankincense & myrrh shea butter, watching breath and posture. Late nights, quiet time for coding.
+20 January 2013 | Joking around about Ruby, rubbing in the frankincense & myrrh shea butter, watching breath and posture. Late nights, quiet time for coding.
 
-1:51a 19 January 2013 | Writing, shaping, pruning, stretching
+19 January 2013 | Writing, shaping, pruning, stretching
 
-Midnight 18 January 2013 | Mug of tea, pile of notecards, dabblet.com, 5 tabs open in Sublime Text. It's that time.
+18 January 2013 | Mug of tea, pile of notecards, dabblet.com, 5 tabs open in Sublime Text. It's that time.
