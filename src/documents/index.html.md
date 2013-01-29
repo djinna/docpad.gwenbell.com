@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i>29 January 2013 | Published [The Music Doesn't Lie](http://gwenbell.com/posts/thenewmyspace) (review of the new Myspace)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 29 January 2013 | Published [The Music Doesn't Lie](http://gwenbell.com/posts/thenewmyspace) (review of the new Myspace)</p>
 
 27 January 2013 | Writing Digital Warriorship, version 3
 
