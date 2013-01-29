@@ -3,9 +3,11 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 29 January 2013 | Just heard my grandfather say the word "bitcoin" and felt totally shocked. Then, this! [Bitcoin's Gains May Fuel Central Bank Concerns](http://www.bloomberg.com/news/2013-01-28/bitcoin-s-gains-may-fuel-central-bank-concerns-chart-of-the-day.html). w00t! 
+<p class="lead"><i class="icon-quote-left icon-large"></i> 29 January 2013 | Making friends at a cafe. He's a gamer, brought everything and the kitchen sink. Said all he's lacking is a little Jack.</p>
 
-29 January 2013 | Published [The Music Doesn't Lie](http://gwenbell.com/posts/thenewmyspace)(review of the new Myspace)
+29 January 2013 | Just heard my grandfather say the word "bitcoin" and felt totally shocked. Then, this! [Bitcoin's Gains May Fuel Central Bank Concerns](http://www.bloomberg.com/news/2013-01-28/bitcoin-s-gains-may-fuel-central-bank-concerns-chart-of-the-day.html). w00t! 
+
+29 January 2013 | Published [The Music Doesn't Lie](http://gwenbell.com/posts/thenewmyspace) (review of the new Myspace)
 
 27 January 2013 | Writing Digital Warriorship, version 3
 
