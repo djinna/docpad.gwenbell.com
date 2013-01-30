@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 29 January 2013 | Making friends at a cafe. He's a gamer, brought everything and the kitchen sink. Said all he's lacking is a little Jack.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 30 January 2013 | Shiny! [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)</p>
+
+29 January 2013 | Making friends at a cafe. He's a gamer, brought everything and the kitchen sink. Said all he's lacking is a little Jack.
 
 29 January 2013 | Just heard my grandfather say the word "bitcoin" and felt totally shocked. Then, this! [Bitcoin's Gains May Fuel Central Bank Concerns](http://www.bloomberg.com/news/2013-01-28/bitcoin-s-gains-may-fuel-central-bank-concerns-chart-of-the-day.html). w00t! 
 
