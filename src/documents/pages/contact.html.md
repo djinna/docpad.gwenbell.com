@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: page
-pageOrder: 4
+pageOrder: 5
 ---
 
 Email | [gwen@gwenbell.com](mailto:gwen@gwenbell.com)

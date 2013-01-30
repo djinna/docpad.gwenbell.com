@@ -2,7 +2,7 @@
 title: Digital Warriorship
 layout: page
 tags: ['digitalwarriorship','page']
-pageOrder: 3
+pageOrder: 2
 ---
 
 Intro
@@ -12,14 +12,14 @@ I published _Digital Warriorship_ for the first time two years ago, in 2011. I r
 
 This is a guide to some ways you might approach your digital life as a warrior. It's the guide I live by, and I hope it'll help you as it helps me. As with everything I've written, I hope you'll take what works for you and discard the rest.
 
-I'm publishing Digital Warriorship here as I write it, starting 27 January 2013. The manuscript will change.
+I'm publishing Digital Warriorship here as I write it, starting 27 January 2013. Most recent update: 29 January 2013.
 
 Guiding Principles/Faeries
 ---
 
-From 2011 to 2013 I've learned about technologies that have changed my worldview. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8) which took me from coaxing a mild interest into a full on fever. These two have served as sort of guiding faeries (dude, programmery faeries that is).
+From 2011 to 2013 I've learned about technologies that have changed my worldview. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8). These two have served as sort of guiding faeries (dude, programmery faeries that is).
 
-As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two. Each is passionate about a web that is open. Their digital values align with mine, though they've been at it longer and taken different paths.
+As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two. Each is passionate about a more open web. Their digital values align with mine, though they've been at it longer and taken different paths.
 
 Out of open/free comes a tool I've already mentioned, git. And from git, [GitHub](http://github.com/) emerged. 
 
@@ -66,7 +66,7 @@ I started asking people about Linux. The more I learned, the more I realized I w
 About Digital Warriorship
 ---
 
-Why warriorship? For 3.5 years I lived in the cloud-shrouded mountain town that is Boulder, Colorado. I moved there in 2007 because I found it to be a balance of tech savvy and yogic. 
+Why warriorship? For 3.5 years I lived in the cloud-shrouded mountain town that is Boulder, Colorado. I moved there in 2007 because I found it to be a balance of tech savvy and yogic prowess. 
 
 I took my first yoga class in college, became certified to teach in 2005 and opened a yoga studio in Japan that same year. During my 3.5 years in Japan I taught and studied yoga, Buddhism and Japanese culture. Being a warrior means something in each of these cultures. In yoga we're taught the three warrior postures. You can take them in sequence, warriors one two and three. Each warrior is a practice in balance.
 
