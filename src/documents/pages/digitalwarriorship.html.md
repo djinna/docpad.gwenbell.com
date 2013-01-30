@@ -2,7 +2,7 @@
 title: Digital Warriorship
 layout: page
 tags: ['digitalwarriorship','page']
-pageOrder: 2
+pageOrder: 1
 ---
 
 Intro
@@ -60,6 +60,17 @@ I've already touched on this, and if you already know some HTML and CSS, next st
 In 2012 I decided I'd gone as far as I want to go with Apple's operating system. While satisfied with the hardware I was no longer excited about the direction the OS was going. When I notice I'm irritated with one of my tools I start exploring other options.
 
 I started asking people about Linux. The more I learned, the more I realized I wanted to install it on my machine. I'm running a distribution (distro) of Linux - [Ubuntu](http://www.ubuntu.com/download). If you have the mind to do it, you can get Ubuntu onto a MacBook Air.
+
+**Workflow**
+
+I live on the command line. [Byobu](http://www.ghacks.net/2010/11/16/use-byobu-for-extended-features-in-your-terminal-window/) is lovely, I use it daily.
+
+Default search engine, gets the user out of their filter bubble: [DuckDuckGo](http://duckduckgo.com)
+
+[Sublime Text](http://www.sublimetext.com/blog/articles/sublime-text-3-beta)
+
+
+
 
 //
 

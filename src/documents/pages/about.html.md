@@ -2,7 +2,7 @@
 title: About
 layout: page
 tags: ['intro','page']
-pageOrder: 1
+pageOrder: 4
 ---
 
 Everything you know about Gwen Bell is probably wrong. Just like everything you know about the Internet is probably wrong. Almost certainly wrong.
@@ -27,4 +27,9 @@ The best thing Gwen did in the past year, besides traveling the entire world, wa
 
 And Gwen talks to faeries. Actually, they talk with each other.
 
-|I'm Gwen Bell. And I approve of this message.|
+**I'm Gwen Bell. And I approve of this message.**
+
+About this Site
+--- 
+
+This site is built on [Node.js](http://nodejs.org/). It is written partially in [Jade](http://jade-lang.com/), and partially in [Markdown](http://daringfireball.net/projects/markdown/). I host it on a VPS.
