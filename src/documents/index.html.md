@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 30 January 2013 | Shiny! [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 31 January 2013 | "Every day brings me a greater sense of gratitude." - [Michael Santos on life outside](http://www.slate.com/blogs/quora/2013/01/25/how_is_life_outside_after_being_in_prison_for_over_20_years.html), after spending twenty years in prison</p>
+
+30 January 2013 | Shiny! [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
 
 29 January 2013 | Making friends at a cafe. He's a gamer, brought everything and the kitchen sink. Said all he's lacking is a little Jack.
 
