@@ -8,18 +8,17 @@ pageOrder: 1
 Intro
 ---
 
-I published _Digital Warriorship_ for the first time two years ago, in 2011. I republished it in 2012. Now, here it is for 2013. 
+I published the first _Digital Warriorship_ in 2011. I republished it in 2012. Now, here it is for 2013. 
 
-This is a guide to some ways you might approach your digital life as a warrior. It's the guide I live by, and I hope it'll help you as it helps me. As with everything I've written, I hope you'll take what works for you and discard the rest.
+This is a guide to some ways you might approach your digital life as a warrior. It's the guide I live by. I hope it'll help you as it helps me. As with everything I've written, I hope you'll take what works for you and discard the rest.
 
-I'm publishing Digital Warriorship here as I write it, starting 27 January 2013. Most recent update: 29 January 2013.
+I'm publishing _Digital Warriorship_ here as I write it, starting 27 January 2013. Most recent update: 31 January 2013.
 
 Guiding Principles/Faeries
 ---
+Every technologist follows in the footsteps of others. If you're looking for two to follow, try [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds), specifically this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8). Since 2012, I've looked to Stallman and Torvalds as sort of guiding faeries (dude, programmery faeries that is).
 
-From 2011 to 2013 I've learned about technologies that have changed my worldview. Pioneers in the field of information technology - notably [Richard Stallman](http://www.stallman.org/) (be sure to view source) and [Linus Torvalds](https://en.wikiquote.org/wiki/Linus_Torvalds) and this [talk on git](https://www.youtube.com/watch?v=4XpnKHJAok8). These two have served as sort of guiding faeries (dude, programmery faeries that is).
-
-As you read about those two you'll see the driving force is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two. Each is passionate about a more open web. Their digital values align with mine, though they've been at it longer and taken different paths.
+As you read and watch you'll see the thread connecting them is open source and free, as in freedom, software, hardware and community. Stallman goes to great lengths to distinguish between the two. Each is passionate about a more open web. Their digital values align with mine, though they've been at it longer and taken different paths.
 
 Out of open/free comes a tool I've already mentioned, git. And from git, [GitHub](http://github.com/) emerged. 
 
@@ -99,4 +98,4 @@ The practice of digital warriorship is my life's work.
 Support the Work
 ---
 
-<a class="coinbase-button" data-code="7e487cf04f7a4e514db7b84c373dbffb" data-button-style="custom_large" data-custom="DW012013" href="https://coinbase.com/checkouts/7e487cf04f7a4e514db7b84c373dbffb">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
+<a class="coinbase-button" data-code="3eaf27a733a581f0a5e2693ef90fd0d9" data-button-style="custom_large" href="https://coinbase.com/checkouts/3eaf27a733a581f0a5e2693ef90fd0d9">Donate Bitcoins</a><script src="https://coinbase.com/assets/button.js" type="text/javascript"></script>
