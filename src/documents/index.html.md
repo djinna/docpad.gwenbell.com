@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 31 January 2013 | Thank you whoever just sent .1337 BTC. So leet.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 2 February 2013 | Playing with [Holla for WebRTC](https://github.com/wearefractal/holla).</p>
+
+31 January 2013 | Thank you whoever just sent .1337 BTC. So leet.
 
 31 January 2013 | "Every day brings me a greater sense of gratitude." - [Michael Santos on life outside](http://www.slate.com/blogs/quora/2013/01/25/how_is_life_outside_after_being_in_prison_for_over_20_years.html), after spending twenty years in prison
 
