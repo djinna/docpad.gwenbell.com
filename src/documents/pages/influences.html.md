@@ -5,8 +5,6 @@ tags: ['influences','page']
 pageOrder: 2
 ---
 
-Consider these digital love letters.
-
 **[Alan Ball](http://www.imdb.com/name/nm0050332/)**
 
 I started watching Six Feet Under and didn't stop until I'd seen every episode. Alan Ball also wrote one of my all-time favorite films, American Beauty. 
@@ -50,3 +48,11 @@ Themes: Japan, Zen, video games
 Ev Bogue is my star twin. 
 
 Themes: work, love, coffee
+
+**Amy Cotteleer** 
+
+I met Amy at a Nintendo event in Chicago. I didn't know I'd sat next to the organizer of the event, and [president of the company A2G](http://www.advocacyamplified.com/2011/03/a2g%E2%80%99s-amy-cotteleer-weighs-in-on-consumer-engagement-in-usa-today-2/), until later. At the event I was by turns delighted, moved, touched - happy - all night. Amy radiated warmth. Along with Justine Meek, her right hand (the woman who brought me into the role of Nintendo ambassador - by flying in to meet me) - Amy taught me ways to build loyalty, and run a business with panache. 
+
+**Tanya Quick**
+
+Tanya runs [Language Dept.](http://languagedept.com). Together, along with Jenn Cash, her business partner, we rebuilt gwenbell.com in 2010 and 2011. Somewhere in there we cohosted a tweetup in their giant lofted NYC office. I admire Tanya's work ethic, her life-forward way of doing things, her _drive_.
