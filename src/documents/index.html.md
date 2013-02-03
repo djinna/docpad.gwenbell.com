@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 2 February 2013 | Playing with [Holla for WebRTC](https://github.com/wearefractal/holla).</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 3 February 2013 | Practiced in the early morning darkness. Reminds me of something Vanda Scaravelli said.</p>
+
+2 February 2013 | Playing with [Holla for WebRTC](https://github.com/wearefractal/holla).
 
 31 January 2013 | Thank you whoever just sent .1337 BTC. So leet.
 
