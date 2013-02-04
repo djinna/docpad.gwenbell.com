@@ -2,7 +2,7 @@
 title: About
 layout: page
 tags: ['intro','page']
-pageOrder: 4
+pageOrder: 5
 ---
 
 I take my life seriously. And for a lot of years, I took myself seriously, too. Somehow*, over the past two years I've managed to get over myself. 
