@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 4 February 2013 | Site additions: [speaking](/pages/speaking), [new writing on git](/posts/yourresume)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> "Worrying about your followers, you need to get your dollars up" - Meek Mill [tellin' it](https://new.myspace.com/meekmill/music/album/amen-18591239?sid=88044203)</p>
+
+4 February 2013 | Site additions: [speaking](/pages/speaking), [new writing on git](/posts/yourresume)
 
 3 February 2013 | Practiced in the early morning darkness. Reminds me of something Vanda Scaravelli said.
 
