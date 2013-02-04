@@ -32,4 +32,4 @@ This is beneficial to your dev team, too. You make less in person requests, and 
 
 **Let's Git In It**
 
-When you get in touch, let me know about the size of your team, the scope of the project you're creating, and your current team work flow.
+When you [get in touch](/pages/contact), let me know about the size of your team, the scope of the project you're creating, and your current team work flow.
