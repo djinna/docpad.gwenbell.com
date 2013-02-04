@@ -56,3 +56,7 @@ I met Amy at a Nintendo event in Chicago. I didn't know I'd sat next to the orga
 **Tanya Quick**
 
 Tanya runs [Language Dept.](http://languagedept.com). Together, along with Jenn Cash, her business partner, we rebuilt gwenbell.com in 2010 and 2011. Somewhere in there we cohosted a tweetup in their giant lofted NYC office. I admire Tanya's work ethic, her life-forward way of doing things, her _drive_.
+
+**[Mike Hearn](http://plan99.net/~mike/)**
+
+I think Mike Hearn is a cryptographic genius. At one point I propositioned him to let me fly to Switzerland and learn all I can from him about Bitcoin and cryptography. He declined, but I know he still thinks about it from time to time.
