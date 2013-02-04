@@ -2,7 +2,7 @@
 title: How to Hire in a Post-job World
 layout: post
 tags: ['new','post','tech', 'git', 'work']
-date: Sun Feb 3 14:13:10 EST 2013 (updated 6:42a Mon Feb 4)
+date: Sun Feb 3 14:13:10 EST 2013
 ---
 
 
