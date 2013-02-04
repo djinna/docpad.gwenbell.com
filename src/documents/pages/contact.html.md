@@ -13,3 +13,5 @@ Skype | [gwendolynbell](skype:gwendolynbell)
 Pinboard | [gwenbell](https://pinboard.in/u:gwenbell)
 
 Myspace | [gwenbell](https://new.myspace.com/gwenbell)
+
+IRC | gwenbell
