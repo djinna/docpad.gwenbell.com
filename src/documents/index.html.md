@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 3 February 2013 | Practiced in the early morning darkness. Reminds me of something Vanda Scaravelli said.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 4 February 2013 | Site additions: [speaking](/pages/speaking), [new writing on git](/posts/yourresume)</p>
+
+3 February 2013 | Practiced in the early morning darkness. Reminds me of something Vanda Scaravelli said.
 
 2 February 2013 | Playing with [Holla for WebRTC](https://github.com/wearefractal/holla).
 
