@@ -59,4 +59,4 @@ Tanya runs [Language Dept.](http://languagedept.com). Together, along with Jenn 
 
 **[Mike Hearn](http://plan99.net/~mike/)**
 
-I think Mike Hearn is a cryptographic genius. At one point I propositioned him to let me fly to Switzerland and learn all I can from him about Bitcoin and cryptography. He declined, but I know he still thinks about it from time to time.
+I think Mike Hearn is a cryptographic genius. Because of his influence, and this [talk he gave at Bitcoin2012](https://www.youtube.com/watch?v=mD4L7xDNCmA), I am obsessed with the world of bitcoin, and it's possibilities to change the world (especially through smart property).
