@@ -16,7 +16,7 @@ I've been honored to be named one of Fast Company's most influential women in te
 
 I've had the rare opportunity to be a brand ambassador for Nintendo, done commercial for HP and been a panelist on a panel called, perhaps a touch cheekily, Titans of Tech. I've spoken all over the country, and taught workshops to hundreds of people. In 2009 I started a month-long annual reflection project that grew to 1,000 participants. In 2010, I rebranded it Reverb and along with Cali Harris and Kaileen Elise, we flew to Napa and grew the project to nearly 3,000 participants.
 
-From 2011 to 2012 I traveled the globe living out of a single bag (no storage unit), supporting myself by launching ebooks and other projects, including _Digital Warriorship_, _Attention Detox, and _Reverb_ to subscriber inboxes. 
+From 2011 to 2012 I traveled the globe living out of a single bag (no storage unit), supporting myself by launching ebooks and other projects, including _Digital Warriorship_, _Attention Detox_, and _Reverb_ to subscriber inboxes. Everything I worked on from 2011 to 2012 focused on building healthy relationships with ourselves in relation to our technologies. 
 
 At the start of 2013 I'm building this site from scratch, learning Node.js and [speaking about git](/pages/speaking). 
 
