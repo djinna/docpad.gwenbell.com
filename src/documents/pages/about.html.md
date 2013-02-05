@@ -10,9 +10,15 @@ Professional Brief
 
 I built my first business in Japan, a yoga studio that was profitable from its second month and grew for six years. 
 
-I've been featured on the cover of [Experience Life magazine](http://shanerichphoto.com/wp-content/uploads/2010/05/bitter3.jpg). That month I shared shelf-space with Oprah. I've been honored to be named one of Fast Company's most influential women in tech. I've spoken at dozens of tech events, co-founded half a dozen companies, including Buddhist Geeks.
+I've been featured on the cover of [Experience Life magazine](http://shanerichphoto.com/wp-content/uploads/2010/05/bitter3.jpg) for my work. That month I shared shelf-space with Oprah. Along with Pilar Gerasimo, the magazine's director, we took the magazine on a zine tour, an idea I thought of in the shower, pitched to Pilar and she and I ran with. I had fun.
 
-I've had the rare opportunity to be a brand ambassador for Nintendo, done commercial for HP and been a panelist on a panel called, perhaps a touch cheekily, Titans of Tech. I've spoken all over the country, and taught workshops to hundreds of people. Most recently, I've traveled the globe, supporting myself by launching ebooks and guided courses to subscriber inboxes.
+I've been honored to be named one of Fast Company's most influential women in tech. I've spoken at dozens of tech events, co-founded half a dozen companies, including Buddhist Geeks, Zen is Stupid and The Mindfulist (we closed down ZIS and TM).
+
+I've had the rare opportunity to be a brand ambassador for Nintendo, done commercial for HP and been a panelist on a panel called, perhaps a touch cheekily, Titans of Tech. I've spoken all over the country, and taught workshops to hundreds of people. In 2009 I started a month-long annual reflection project that grew to 1,000 participants. In 2010, I rebranded it Reverb and along with Cali Harris and Kaileen Elise, we flew to Napa and grew the project to nearly 3,000 participants.
+
+From 2011 to 2012 I traveled the globe living out of a single bag (no storage unit), supporting myself by launching ebooks and other projects, including _Digital Warriorship_, _Attention Detox, and _Reverb_ to subscriber inboxes. 
+
+At the start of 2013 I'm building this site from scratch, learning Node.js and [speaking about git](/pages/speaking). 
 
 Personal Bio
 ---
@@ -29,9 +35,9 @@ The business was a mainstay in the community for six years. When I visited Japan
 
 I have been wildly, deeply blessed. I was raised by my grandparents after my mom died. They could have put me in foster care, and I know some foster kids make it out ok, but I didn't have to. Instead, I ended up being able to do pretty much anything I could think up - from tap dance lessons, and yes I still remember some of my moves - to traveling the entire world. And that was just the first time (I packed too much; the second time I just took one bag).
 
-I've taken some knocks, y'all. I'm not going to lie. But I've also had the opportunity to recover from them, thanks largely to the [people by whom I'm influenced](/pages/influences). 
+I've taken some knocks, y'all. I'm not going to lie. I learn and then refocus on what's working, what grows me. I've had the opportunity to recover from my mistakes, thanks in large part to the [people by whom I'm influenced](/pages/influences). 
 
-I'm not sure what's next. I only promise you I will continue to do the work. What else can we do, other than use our lives to serve others and prepare for death? 
+I will continue to do the work. What else can we do, other than use our lives to serve others and prepare for death? 
 
 *Thank you, NVC.
 
