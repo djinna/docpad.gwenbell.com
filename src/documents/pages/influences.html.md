@@ -60,3 +60,11 @@ Tanya runs [Language Dept.](http://languagedept.com). Together, along with Jenn 
 **[Mike Hearn](http://plan99.net/~mike/)**
 
 I think Mike Hearn is a cryptographic genius. Because of his influence, and this [talk he gave at Bitcoin2012](https://www.youtube.com/watch?v=mD4L7xDNCmA), I am obsessed with the world of bitcoin, and it's possibilities to change the world (especially through smart property).
+
+**[Davux](https://joindiaspora.com/people/a8d0af244d4188ed)**
+
+Someday we'll meet in real life. Until then, I'll just watch his Diaspora stream from afar and wonder about all the trouble he must get up to on a daily basis. Davux, the inimitable.
+
+**[Tilda Swinton](https://en.wikipedia.org/wiki/Tilda_Swinton)**
+
+When asked nicely, Tilda Swinton sometimes shows up for meetings on the astral plane. At least, that's been my experience with her.
