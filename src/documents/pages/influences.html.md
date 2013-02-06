@@ -68,3 +68,12 @@ Someday we'll meet in real life. Until then, I'll just watch his Diaspora stream
 **[Tilda Swinton](https://en.wikipedia.org/wiki/Tilda_Swinton)**
 
 When asked nicely, Tilda Swinton sometimes shows up for meetings on the astral plane. At least, that's been my experience with her.
+
+Things to Read and Do
+---------------------
+
+My first experience of the practice of NVC was with [Kate Crisp](http://www.prisondharmanetwork.net/profile/katecrisp). I later took a course with [Robert Gonzales](http://www.cnvc.org/de/node/14125). Finally, I read What [We Say Matters](http://www.amazon.com/What-Say-Matters-Practicing-Communication/dp/1930485247) four times. 
+
+I bought this [Seneca](http://www.amazon.com/Shortness-Life-Penguin-Great-Ideas/dp/0143036327/ref=sr_il_1_8?s=books&ie=UTF8&qid=1360173476&sr=1-8&keywords=seneca) book in the Mission and read it in a few hours.
+
+Another good one is [A Guide to the Good Life: The Ancient Art of Stoic Joy](http://www.amazon.com/Guide-Good-Life-Ancient-Stoic/dp/0195374614).
