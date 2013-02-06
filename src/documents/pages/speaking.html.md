@@ -24,6 +24,10 @@ No matter your current skill level (and if you're a dev person, I know most of t
 + the basics of git and Github (and the difference between the two)
 + how to clone into and play with some of the amazing open source projects available on Github
 
+**What We'll Do**
+
+We'll get together in a room, and everyone will work on their computers. I'll demonstrate commands at the front of the room, and you'll practice on your own machine. We'll build and deploy a Node.js app together, from the bare bones.
+
 **Results**
 
 When you adopt git at your office (or, if you're a remote team, remotely) everyone benefits. Regardless of how often you touch code, you'll benefit from knowing how git works. No matter the piece of the puzzle on which you work, you'll know where things are in the development process (even if it's just by knowing how to create a pull request, to talk with your dev team on their terms).
