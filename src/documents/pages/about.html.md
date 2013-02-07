@@ -2,7 +2,7 @@
 title: About
 layout: page
 tags: ['intro','page']
-pageOrder: 5
+pageOrder: 1
 ---
 
 Professional Brief
