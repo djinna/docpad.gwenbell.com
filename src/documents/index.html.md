@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 5 February 2013 | Early morning site work, tightening up [about page](/pages/about), listening to [soul](https://new.myspace.com/gwenbell/mixes)</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 7 February 2013 | Just watched a dozen robins descend on the area where I spotted a toad yesteray. Hope he made it. Also, to celebrate upcoming Spring, here's a new piece on maximizing your [digital environs](/posts/digitalenvironment)!</p>
+
+5 February 2013 | Early morning site work, tightening up [about page](/pages/about), listening to [soul](https://new.myspace.com/gwenbell/mixes)
 
 4 February 2013 | "Worrying about your followers, you need to get your dollars up" - Meek Mill [tellin' it](https://new.myspace.com/meekmill/music/album/amen-18591239?sid=88044203)
 
