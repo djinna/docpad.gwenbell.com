@@ -2,7 +2,7 @@
 title: Digital Warriorship
 layout: page
 tags: ['digitalwarriorship','page']
-pageOrder: 1
+pageOrder: 5
 ---
 
 Intro
