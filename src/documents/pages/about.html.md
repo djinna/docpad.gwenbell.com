@@ -5,43 +5,51 @@ tags: ['intro','page']
 pageOrder: 1
 ---
 
-Professional Brief
----
+9 Highlights
+------------
 
-I built my first business in Japan, a yoga studio that was profitable from its second month and grew for six years. 
++ Featured on the cover of [Experience Life magazine](http://experiencelife.com/video/behind-the-scenes-with-gwen-bell/). Shared shelf-space with Oprah.
 
-I've been featured on the cover of [Experience Life magazine](http://shanerichphoto.com/wp-content/uploads/2010/05/bitter3.jpg) for my work. That month I shared shelf-space with Oprah. Along with Pilar Gerasimo, the magazine's director, we took the magazine on a zine tour, an idea I thought of in the shower, pitched to Pilar and she and I ran with. I had fun.
++ Named one of [Fast Company's most influential women in tech](http://www.fastcompany.com/1596274/gwen-bell-social-media-guru)
 
-I've been honored to be named one of Fast Company's most influential women in tech. I've spoken at dozens of tech events, co-founded half a dozen companies, including Buddhist Geeks, Zen is Stupid and The Mindfulist (we closed down ZIS and TM).
++ Brand [ambassador for Nintendo](http://www.advocacyamplified.com/2011/01/nintendo-3ds-first-look/)
 
-I've had the rare opportunity to be a brand ambassador for Nintendo, done commercial for HP and been a panelist on a panel called, perhaps a touch cheekily, Titans of Tech. I've spoken all over the country, and taught workshops to hundreds of people. In 2009 I started a month-long annual reflection project that grew to 1,000 participants. In 2010, I rebranded it Reverb and along with Cali Harris and Kaileen Elise, we flew to Napa and grew the project to nearly 3,000 participants.
++ Shot a commercial on behalf of [HP](http://www.savevid.com/video/hp-photosmart-gwen-bell-speaks-about-the-google-maps-app.html) 
 
-From 2011 to 2012 I traveled the globe living out of a single bag (no storage unit), supporting myself by launching ebooks and other projects, including _Digital Warriorship_, _Attention Detox_, and _Reverb_ to subscriber inboxes. Everything I worked on from 2011 to 2012 focused on building healthy relationships with ourselves in relation to our technologies. 
++ Panelist on [Titans of Tech](http://www.elephantjournal.com/2009/05/walk-the-talk-show-with-waylon-lewis-titans-of-tech-ft-gwen-bell-jeffrey-kalmikoff-brad-feld-micah-balwin/)
 
-At the start of 2013 I'm building this site from scratch, learning Node.js and [speaking about git](/pages/speaking). 
++ Taught multi-week series at [University of Colorado](http://www.colorado.edu/atlas/bell/)
 
-Personal Bio
----
++ Started Reverb10 and Best09
 
-I take my life seriously. And for a lot of years, I took myself seriously, too. Somehow*, over the past two years I've managed to get over myself. 
++ Signed with a speaking agent and have spoken at dozens of events
 
-I still take life seriously. I don't expect my life to stretch on forever. I tell the people I love that I love them. I tell the people who matter to me that they matter to me. I put my health first, the people I love second and the work third. 
++ 2011-2012 traveled the globe and published ebooks and digital products including: _Align Your Website, _Digital Warriorship_, _Attention Detox_, and _Reverb_.
 
-I do the work every day of the week, without a break. I don't take weekends or holidays. I rest when I need to, and work when I'm not resting. I've only had one full-time job; teaching English to little kids in Japan. For only full-time jobs to have, that is the ideal one. I got to create whatever games I wanted and have little Japanese kids try them out. For pay.
+Current
+-------
 
-That year, while I taught English, I opened a yoga studio above an izakaya. It was perpetually cold. The tatami mats we rolled our mats out on were ratty and old. Yet things went so well my compadre and I decided to move to Yokohama and do it a second time, for realzies. 
+It's 2013. I'm back in the States after traveling the world the last year and a half. From 2011 to 2012 I lived in San Francisco, Mexico, Singapore, Japan, Germany and various other places in the States.
+
+Now I'm building this site from scratch in Node.js, writing and [speaking about git](/pages/speaking). 
+
+Everything I own fits into one bag. I do the work every day of the week, without a break. I put my health first, the people I love second and the work third. 
+
+Entrepreneurial Path
+--------------------
+
+My first and only full-time job was teaching English in Japan.
+
+That year, while I taught English, I opened a yoga studio above an izakaya. It was perpetually cold. The tatami mats we rolled our mats out on were ratty and old. Yet things went so well, I decided to do it full-time in Yokohama. 
 
 The business was a mainstay in the community for six years. When I visited Japan again in the summer of 2012, one of my former students stopped me in the street and asked when I'd be re-opening the studio. I felt so touched I was tempted to say, 'today'.
 
-I have been wildly, deeply blessed. I was raised by my grandparents after my mom died. They could have put me in foster care, and I know some foster kids make it out ok, but I didn't have to. Instead, I ended up being able to do pretty much anything I could think up - from tap dance lessons, and yes I still remember some of my moves - to traveling the entire world. And that was just the first time (I packed too much; the second time I just took one bag).
+Early Years
+-----------
 
-I've taken some knocks, y'all. I'm not going to lie. I learn and then refocus on what's working, what grows me. I've had the opportunity to recover from my mistakes, thanks in large part to the [people by whom I'm influenced](/pages/influences). 
+I was raised by my grandparents after my mom died when I was eleven. They supported me as I did anything I could think up - from tap dance and modelling lessons - to traveling the entire world. I'm grateful to them, and I let them know that.
 
-I will continue to do the work. What else can we do, other than use our lives to serve others and prepare for death? 
-
-*Thank you, NVC.
-
-About this Site
---- 
+Tech
+----
  
 I've built, scrapped and started from scratch with gwenbell.com dozens of times. I built the current version of the site using Docpad, with [Node.js](http://nodejs.org/). I code in [Jade](http://jade-lang.com/), CoffeeScript and partially in [Markdown](http://daringfireball.net/projects/markdown/). I host the site on a shared private VPS.
