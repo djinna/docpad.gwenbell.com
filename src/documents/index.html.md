@@ -3,15 +3,16 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 9 Feb 2013 | Hey, if you want to, jump on my [Node IRC client, Subway](http://subway.gwenbell.com/)! I'll see you in #stackvm or #fedora-social or #node.js (all on freenode)!
-</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 10 Feb 2013 | Listening to Nicki, reworking About page, updating background. The subtle pattern had to go.</p>
+
+9 Feb 2013 | Hey, if you want to, jump on my [Node IRC client, Subway](http://subway.gwenbell.com/)! I'll see you in #stackvm or #fedora-social or #node.js (all on freenode)!
 
 8 Feb 2013 | Reading [Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X).
 
 
 7 Feb 2013 | [Just watched this](http://www.youtube.com/watch?v=wxDBF3OOaRA). It's like having all the Node peeps you've come to know and love in the room with you for three minutes!
 
-7 February 2013 | Just watched a dozen robins descend on the area where I spotted a toad yesteray. Hope he made it. Also, to celebrate upcoming Spring, here's a new piece on maximizing your [digital environs](/posts/digitalenvironment)!
+7 February 2013 | Just watched a dozen robins descend on the area where I spotted a toad yesteray. Hope he made it. Also, to celebrate upcoming Spring, here's a new piece on maximizing our [digital environs](/posts/digitalenvironment)!
 
 5 February 2013 | Early morning site work, tightening up [about page](/pages/about), listening to [soul](https://new.myspace.com/gwenbell/mixes)
 
@@ -27,13 +28,9 @@ title: 'Stream'
 
 31 January 2013 | "Every day brings me a greater sense of gratitude." - [Michael Santos on life outside](http://www.slate.com/blogs/quora/2013/01/25/how_is_life_outside_after_being_in_prison_for_over_20_years.html), after spending twenty years in prison
 
-30 January 2013 | Shiny! [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
-
-29 January 2013 | Making friends at a cafe. He's a gamer, brought everything and the kitchen sink. Said all he's lacking is a little Jack.
+30 January 2013 | [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
 
 29 January 2013 | Just heard my grandfather say the word "bitcoin" and felt totally shocked. Then, this! [Bitcoin's Gains May Fuel Central Bank Concerns](http://www.bloomberg.com/news/2013-01-28/bitcoin-s-gains-may-fuel-central-bank-concerns-chart-of-the-day.html). w00t! 
-
-29 January 2013 | Published [The Music Doesn't Lie](http://gwenbell.com/posts/thenewmyspace) (review of the new Myspace)
 
 27 January 2013 | Writing Digital Warriorship, version 3
 
