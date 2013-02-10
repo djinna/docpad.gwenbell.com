@@ -24,7 +24,7 @@ pageOrder: 1
 
 + Signed with a speaking agent and have spoken at dozens of events
 
-+ 2011-2012 traveled the globe and published ebooks and digital products including: _Align Your Website, _Digital Warriorship_, _Attention Detox_, and _Reverb_.
++ 2011-2012 traveled the globe and published ebooks and digital products including: _Align Your Website_, _Digital Warriorship_, _Attention Detox_, and _Reverb_.
 
 Current
 -------
@@ -52,4 +52,10 @@ I was raised by my grandparents after my mom died when I was eleven. They suppor
 Tech
 ----
  
-I've built, scrapped and started from scratch with gwenbell.com dozens of times. I built the current version of the site using Docpad, with [Node.js](http://nodejs.org/). I code in [Jade](http://jade-lang.com/), CoffeeScript and partially in [Markdown](http://daringfireball.net/projects/markdown/). I host the site on a shared private VPS.
+All my work is with real-time web apps, including this site. I built the current version of this site with [DocPad](http://github.com/gwenbell/docpad.gwenbell.com). 
+
+I code in [Jade](http://jade-lang.com/), CoffeeScript and partially in [Markdown](http://daringfireball.net/projects/markdown/). 
+
+I host the site on a shared private VPS. Now that I've used a VPS, I can't imagine doing it any other way.
+
+I welcome your [pull requests](http://github.com/gwenbell/docpad.gwenbell.com) for any errors or omissions you discover on this site.
