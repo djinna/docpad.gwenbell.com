@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Set up your digital life for maximum effectiveness!
+title: How I organize my digital world
 layout: post
 tags: ['new','post','tech', 'work', 'dev', 'linux']
 date: Thurs Feb 7 05:49:10 EST 2013
