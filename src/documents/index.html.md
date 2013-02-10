@@ -5,10 +5,11 @@ title: 'Stream'
 
 <p class="lead"><i class="icon-quote-left icon-large"></i> 9 Feb 2013 | Hey, if you want to, jump on my [Node IRC client, Subway](http://subway.gwenbell.com/)! I'll see you in #stackvm or #fedora-social or #node.js (all on freenode)!
 </p>
+
 8 Feb 2013 | Reading [Secrets of the JavaScript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X).
 
 
-7 Feb 2013 | [Just watched this](http://www.youtube.com/watch?v=wxDBF3OOaRA). It's like having all the Node peeps you've come to know and love in the room with you for three minutes!</p> 
+7 Feb 2013 | [Just watched this](http://www.youtube.com/watch?v=wxDBF3OOaRA). It's like having all the Node peeps you've come to know and love in the room with you for three minutes!
 
 7 February 2013 | Just watched a dozen robins descend on the area where I spotted a toad yesteray. Hope he made it. Also, to celebrate upcoming Spring, here's a new piece on maximizing your [digital environs](/posts/digitalenvironment)!
 
