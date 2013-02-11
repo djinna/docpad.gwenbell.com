@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Eating grits, fried eggs and bacon. You know where I must be.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> Recording screencast with Kazam.</p>
+
+11 Feb 2013 | Eating grits, fried eggs and bacon. You know where I must be.
 
 10 Feb 2013 | Listening to Nicki, reworking About page, updating background. The subtle pattern had to go.
 
