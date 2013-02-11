@@ -3,7 +3,13 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Recording screencast with Kazam.</p>
+### Watch this video to learn how this site is built!
+
+<video id="video" controls preload="auto" class="video-js vjs-default-skin" width="100%">
+	<source src="https://gobblin.se/media/media_entries/2121/docpad-demo-640p.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
+ </video>
+
+<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Recording screencast with Kazam.</p>
 
 11 Feb 2013 | Eating grits, fried eggs and bacon. You know where I must be.
 
