@@ -7,8 +7,9 @@ title: 'Stream'
 	<source src="https://gobblin.se/media/media_entries/2121/docpad-demo-640p.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
  </video>
 
- ### Watch this video to learn how this site is built!
+ ### Watch this video to learn how I build this site.
 
+<p>If you can't view the vid, you can confirm the security exemption and [watch it here](https://gobblin.se/u/gwenbell/m/docpad-demo/).</p> 
 
 <p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Recording screencast with Kazam.</p>
 
