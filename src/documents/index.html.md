@@ -3,7 +3,7 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> Recording screencast with Kazam.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Recording screencast with Kazam.</p>
 
 11 Feb 2013 | Eating grits, fried eggs and bacon. You know where I must be.
 
