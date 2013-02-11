@@ -3,7 +3,9 @@ layout: 'default'
 title: 'Stream'
 ---
 
-<p class="lead"><i class="icon-quote-left icon-large"></i> 10 Feb 2013 | Listening to Nicki, reworking About page, updating background. The subtle pattern had to go.</p>
+<p class="lead"><i class="icon-quote-left icon-large"></i> 11 Feb 2013 | Eating grits, fried eggs and bacon. You know where I must be.</p>
+
+10 Feb 2013 | Listening to Nicki, reworking About page, updating background. The subtle pattern had to go.
 
 9 Feb 2013 | Hey, if you want to, jump on my [Node IRC client, Subway](http://subway.gwenbell.com/)! I'll see you in #stackvm or #fedora-social or #node.js (all on freenode)!
 
