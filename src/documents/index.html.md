@@ -4,7 +4,7 @@ title: 'Stream'
 ---
 
 <video id="video" controls preload="auto" class="video-js vjs-default-skin" width="100%">
-	<source src="https://gobblin.se/media/media_entries/2121/docpad-demo-640p.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
+	<source src="http://gobblin.se/media/media_entries/2121/docpad-demo-640p.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
  </video>
 
  ### Watch this video to learn how I build this site.
