@@ -1,5 +1,5 @@
 ---
-title: Women in tech
+title: Women in Tech, Commit
 date: Tue Feb 12 21:45:13 EST 2013
 tags: ['women', 'technology']
 layout: post
