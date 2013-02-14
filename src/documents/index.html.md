@@ -11,7 +11,9 @@ title: 'Stream'
 
 <p>If you can't view the vid, confirm the security exemption and [watch it here](https://gobblin.se/u/gwenbell/m/docpad-demo/).</p> 
 
-<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> You can now buy your [Domino's Pizza with Bitcoin](http://www.digitaltrends.com/web/virtual-bitcoins-can-now-be-traded-for-dominos-pizza/). Yay!</p>
+<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!</p>
+
+12 Feb 2013 | You can now buy your [Domino's Pizza with Bitcoin](http://www.digitaltrends.com/web/virtual-bitcoins-can-now-be-traded-for-dominos-pizza/). Yay!
 
 11 Feb 2013 | Recording screencast with Kazam.
 
