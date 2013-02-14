@@ -2,16 +2,7 @@
 layout: 'default'
 title: 'Stream'
 ---
-
-<video id="video" controls preload="auto" class="video-js vjs-default-skin" width="100%">
-	<source src="http://gobblin.se/media/media_entries/2121/docpad-demo-640p.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
- </video>
-
- ### Watch this video to learn how I build this site.
-
-<p>If you can't view the vid, confirm the security exemption and [watch it here](https://gobblin.se/u/gwenbell/m/docpad-demo/).</p> 
-
-<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!</p>
+<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> 13 Feb 2013 | Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!</p>
 
 12 Feb 2013 | You can now buy your [Domino's Pizza with Bitcoin](http://www.digitaltrends.com/web/virtual-bitcoins-can-now-be-traded-for-dominos-pizza/). Yay!
 
