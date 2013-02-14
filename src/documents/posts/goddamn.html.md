@@ -1,6 +1,6 @@
 ---
 title: What happened
-date: Tue Feb 14 21:45:13 EST 2013
+date: Tue Feb 13 21:45:13 EST 2013
 tags: ['women', 'love', 'life']
 layout: post
 ---
