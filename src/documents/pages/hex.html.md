@@ -5,6 +5,8 @@ tags: ['fiction','page', 'writing']
 pageOrder: 5
 ---
 
+<blockquote>Hey you. This is Hex. I wrote a bit about it [here](/posts/goddamn). I haven't edited, proof-read or in any other way tightened up this writing. It's the first time I've published fiction. I am sure beyond doubt you will see errors in timing, story arc, grammar and puncutation. If it drives you nuts, you may [submit a pull request](https://help.github.com/articles/using-pull-requests) with corrections. Thanks for doing your part to help the writers of planet earth. Onward!</blockquote>
+
 Anika escaped.
 
 She's standing at the edge. It's ten hours after her mom died, and the chain started. The chain only happens once every 280 years and it's the trigger that starts the same battle that started 280 years earlier. This time, Anika wants to change the outcome. If she can make th samskara leap, history will change. But everything, starting with her mom's death, has to happen just so.
