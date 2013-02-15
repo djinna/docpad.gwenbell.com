@@ -2,7 +2,9 @@
 layout: 'default'
 title: 'Stream'
 ---
-<p class="lead" style="margin-top: 1em"><i class="icon-quote-left icon-large"></i> 13 Feb 2013 | Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!</p>
+<blockquote>New writing, new about. Fired up, ready to go!</blockquote>
+
+13 Feb 2013 | Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!
 
 12 Feb 2013 | You can now buy your [Domino's Pizza with Bitcoin](http://www.digitaltrends.com/web/virtual-bitcoins-can-now-be-traded-for-dominos-pizza/). Yay!
 
