@@ -2,7 +2,9 @@
 layout: 'default'
 title: 'Stream'
 ---
-<blockquote>New writing, new about. Fired up, ready to go!</blockquote>
+
+15 Feb 2013 | New writing, new about. Fired up, ready to go!
+---------------------------------------------------------
 
 13 Feb 2013 | Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!
 
