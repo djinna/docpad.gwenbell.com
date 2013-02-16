@@ -3,8 +3,11 @@ layout: 'default'
 title: 'Stream'
 ---
 
-15 Feb 2013 | New writing, new about. Fired up, ready to go!
+LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
+
 ============================================================
+
+15 Feb 2013 | New writing, new about. Fired up, ready to go!
 
 13 Feb 2013 | Him in Columbia (Culoombia). Me in the basement. Clear connection, thank you [WebRTC](http://www.webrtc.org/demo). Skype, never again!
 
