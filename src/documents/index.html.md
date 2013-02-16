@@ -3,10 +3,8 @@ layout: 'default'
 title: 'Stream'
 ---
 
-This is going to kill me a little. Deleting access to public writing to focus only on becoming a developer. Until further notice.
+LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
 ============================================================
-
-15 Feb 2013 | LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
 
 15 Feb 2013 | New writing, new about. Fired up, ready to go!
 
@@ -54,7 +52,7 @@ This is going to kill me a little. Deleting access to public writing to focus on
 
 27 Jan 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
 
-26 Jan 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
+26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
 
 26 Jan 2013 | Published [new about](http://gwenbell.com/pages/about)
 
