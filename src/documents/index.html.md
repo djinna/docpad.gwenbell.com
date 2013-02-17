@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
+New piece: [Git + Github and some mush](http://gwenbell.com/posts/gitandgithub)
 ============================================================
+
+15 Feb 2013 | LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
 
 15 Feb 2013 | New writing, new about. Fired up, ready to go!
 
@@ -52,7 +54,7 @@ LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette
 
 27 Jan 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
 
-26 January 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
+26 Jan 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
 
 26 Jan 2013 | Published [new about](http://gwenbell.com/pages/about)
 
