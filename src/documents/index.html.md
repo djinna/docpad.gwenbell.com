@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Aw snap. Almost missed [committing something](http://github.com/gwenbell) today which would have broken my streak! Ha! Under the wire.
+Yerba mate powder bears a striking resemblance to pixie dust.
 ============================================================
+
+17 Feb 2013 | Aw snap. Almost missed [committing something](http://github.com/gwenbell) today which would have broken my streak! Ha! Under the wire.
 
 16 Feb 2013 | New piece: [Git + Github and some mush](http://gwenbell.com/posts/gitandgithub)
 
