@@ -31,7 +31,9 @@ They sort of self corrected when the police showed up. We were four months on, t
 
 But, that's the next chapter in the story.
 
-For now, there's this. And, [Hex](/pages/hex). Which is this sort of young adult fiction piece I am writing. Maybe it's terrible and you'll hate it. If there's any good in it, it goes to Holly Root at Waxman who signed me, And Molly O'Neill at Harper Collins who said, "hey, have you ever though about young adult fiction?" And I was all, "oh, hell no. ...But...maybe?"
+*
+
+For now, there's this. And, [Hex](/pages/hex). Which is this sort of young adult fiction piece I am writing. Maybe it's terrible and you'll hate it. If there's any good in it, it goes to Holly Root at Waxman who signed me, And Molly O'Neill at Harper Collins who said, "hey, have you ever thought about young adult fiction?" And I was all, "oh, hell no. ...But...maybe?"
 
 Maybe you can't believe I'd be so direct about things. I don't care. I am not writing this so you'll share it with five hundred of your closest.
 
