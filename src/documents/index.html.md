@@ -3,8 +3,11 @@ layout: 'default'
 title: 'Stream'
 ---
 
-New piece: [Git + Github and some mush](http://gwenbell.com/posts/gitandgithub)
+Aw snap. Almost missed [http://github.com/gwenbell](committing something) today which would have broken my streak! Ha! Under the wire.
+
 ============================================================
+
+16 Feb 2013 | New piece: [Git + Github and some mush](http://gwenbell.com/posts/gitandgithub)
 
 15 Feb 2013 | LORD JESUS. I have been waiting my whole life for this. [The HTML5 color palette tool](http://color.hailpixel.com/). Rejoice!
 
