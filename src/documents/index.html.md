@@ -3,8 +3,7 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Alright, Richard. [You convinced me](http://www.youtube.com/watch?v=CP8CNp-vksc). Switching off Ubuntu. [Email me](mailto: gwen@gwenbell.com): debian or fedora?
-
+Alright, Richard. [You convinced me](http://www.youtube.com/watch?v=CP8CNp-vksc). Switching off Ubuntu. [Email me](mailto:gwen@gwenbell.com): debian or fedora?
 ============================================================
 
 19 Feb 2013 | Donut on top of coffee mug. Today's plan includes: deploy some new modules to this site. I'll let you know when they're up!
