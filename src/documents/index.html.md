@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Yerba mate powder bears a striking resemblance to pixie dust.
+Donut on top of coffee mug. Today's plan includes: deploy some new modules to this site. I'll let you know when they're up!
 ============================================================
+
+18 Feb 2013 | Yerba mate powder bears a striking resemblance to pixie dust.
 
 17 Feb 2013 | Aw snap. Almost missed [committing something](http://github.com/gwenbell) today which would have broken my streak! Ha! Under the wire.
 
