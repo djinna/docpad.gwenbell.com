@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Quick, concise [Git tutorial](https://github.com/pcottle/learnGitBranching) for visual learners.
+60 pages into Learning Node by [Shelley Powers](http://burningbird.net/). The most readable tech book I've read to date. Thorough to the point of beautiful. Thank you, Shelley.
 ============================================================
+
+20 Feb 2013 | Quick, concise [Git tutorial](https://github.com/pcottle/learnGitBranching) for visual learners.
 
 19 Feb 2013 | Well I'll be. I'm back on MacOSX.
 
