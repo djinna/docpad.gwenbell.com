@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Well I'll be. I'm back on MacOSX.
+Quick, concise [Git tutorial](https://github.com/pcottle/learnGitBranching) for visual learners.
 ============================================================
+
+19 Feb 2013 | Well I'll be. I'm back on MacOSX.
 
 19 Feb 2013 | Alright, Richard. [You convinced me](http://www.youtube.com/watch?v=CP8CNp-vksc). Switching off Ubuntu. [Email me](mailto:gwen@gwenbell.com): debian or fedora?
 
