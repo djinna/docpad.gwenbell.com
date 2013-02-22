@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-60 pages into Learning Node by [Shelley Powers](http://burningbird.net/). The most readable tech book I've read to date. Thorough to the point of beautiful. Thank you, Shelley.
+Just fell in love with [The Headphone Project](http://leavemewithmybigdreams.com/blog/category/headphones-project/). I have so many questions.
 ============================================================
+
+20 Feb 2013 | 60 pages into Learning Node by [Shelley Powers](http://burningbird.net/). The most readable tech book I've read to date. Thorough to the point of beautiful. Thank you, Shelley.
 
 20 Feb 2013 | Quick, concise [Git tutorial](https://github.com/pcottle/learnGitBranching) for visual learners.
 
