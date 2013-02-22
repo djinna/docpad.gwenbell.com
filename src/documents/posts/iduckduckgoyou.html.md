@@ -5,7 +5,7 @@ tags: ['code','post', 'work', 'how-to']
 date: Fri Feb 22 12:05:39 EST 2013
 ---
 
-This time last year I wrote a piece to the list.<p class="muted">*</p>
+This time last year I wrote a piece to the list.*
 
 I wrote about the steps I take when a reader sends me an email. This was the nut graph: I Google you the first time I receive an email from you. I didn't expect the response I got. It was a wide range of responses, most of which boiled down to: how _dare_ you google me when I email you.
 
