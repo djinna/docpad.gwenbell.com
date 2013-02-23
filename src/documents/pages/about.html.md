@@ -24,4 +24,4 @@ I program because I need to shape things from the inside, and this is the best w
 About This Site
 ===============
 
-I built this site on DocPad, Node.js, Javascript and Coffeescript. Rather than tell you, check the source code [availabhere](https://github.com/gwenbell).
+I built this site on DocPad, Node.js, Javascript and Coffeescript. Rather than tell you, check the source code [available here](https://github.com/gwenbell).
