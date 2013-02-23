@@ -5,11 +5,11 @@ tags: ['intro','page']
 pageOrder: 1
 ---
 
-I'm interested in border-free convention-free rule-free label-free technologies. I earn and spend in Bitcoin. I code in Node.js. I live on the [command line](http://gwenbell.com/posts/digitalenvironment).
+I write about tech because it's sexy. I'm a polyamorous bisexual cyborg. 
+
+I'm interested in border-free, convention-free, rule-free, free as in freedom technologies. I earn and spend in Bitcoin. I code in Node.js. I live on the [command line](http://gwenbell.com/posts/digitalenvironment).
 
 *
-
-I write about tech because it's sexy. I'm a polyamorous bisexual cyborg. 
 
 Prior to this moment, I killed off everything. All my products, most of my relationships, to live out of one bag, travel the world and learn everything I could about technology. 
 
@@ -24,4 +24,4 @@ I program because I need to shape things from the inside, and this is the best w
 About This Site
 ===============
 
-I built this site on DocPad, Node.js, Javascript and Coffeescript. Rather than tell you, you can check the source code is [available here](https://github.com/gwenbell).
+I built this site on DocPad, Node.js, Javascript and Coffeescript. Rather than tell you, check the source code [availabhere](https://github.com/gwenbell).
