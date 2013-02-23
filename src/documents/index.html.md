@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-Just fell in love with [The Headphone Project](http://leavemewithmybigdreams.com/blog/category/headphones-project/). I have so many questions.
+Let's chat! New node chat server deployed at [gwenbell.com:5050](http://gwenbell.com:5050/). Still working out the kinks. Let me know by email, github or carrier pigeon if you can't connect.
 ============================================================
+
+20 Feb 2013 | Just fell in love with [The Headphone Project](http://leavemewithmybigdreams.com/blog/category/headphones-project/). I have so many questions.
 
 20 Feb 2013 | 60 pages into Learning Node by [Shelley Powers](http://burningbird.net/). The most readable tech book I've read to date. Thorough to the point of beautiful. Thank you, Shelley.
 
