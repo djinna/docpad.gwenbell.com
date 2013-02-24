@@ -3,8 +3,10 @@ layout: 'default'
 title: 'Stream'
 ---
 
-We can now chat together at [chat.gwenbell.com](http://chat.gwenbell.com/).
+Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
 ==========================================================
+
+23 Feb 2013 | We can now chat together at [chat.gwenbell.com](http://chat.gwenbell.com/).
 
 22 Feb 2013 | Let's chat! New node chat server deployed at [gwenbell.com:5050](http://gwenbell.com:5050/). Still working out the kinks. Let me know by email, github or carrier pigeon if you can't connect.
 
