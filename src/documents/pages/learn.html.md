@@ -4,7 +4,7 @@ layout: page
 pageOrder: 4
 ---
 
-I've taught tech the past few years. Before that I taught yoga in my yoga studio in Yokohama. Before that I taught English Kiryu. Before that I taught English in Tokyo. I love teaching. It's what I'm called to do. 
+I teach new tech. Before this, I taught yoga in my yoga studio in Yokohama. Before that I taught English in Kiryu. Before that, I taught English in Tokyo. I love teaching. It's what I'm called to do. 
 
 I teach new tech. Starting with git - which is a [version control system](http://git-scm.com/), I teach one on one (over WebRTC) and in person. I can help you get your own VPS up and running so you can run Node and get a site up and running in a few hours. It's about self-reliance. You can do all this on your own, but sometimes you need tech support. I can help.
 
