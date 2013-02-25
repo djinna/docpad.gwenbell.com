@@ -2,7 +2,16 @@
 layout: default
 ---
 
-article#post.post
-  h1= document.title
-  p.date= document.date
-  .post-content!= content
+
+.container.container-main
+	.row
+		.span8
+
+			article#post.post
+			
+				h1= document.title
+				p.date= document.date
+				.post-content!= content
+
+		.span4
+          include sidebar.html
