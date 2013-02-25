@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
+25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
 ==========================================================
+
+24 Feb 2013 | Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
 
 23 Feb 2013 | We can now chat together at [chat.gwenbell.com](http://chat.gwenbell.com/).
 
