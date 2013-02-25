@@ -1,0 +1,18 @@
+
+
+.navbar.navbar-fixed-top
+      .navbar-inner
+        .container
+          .row
+            .span12
+              a.brand(href="/") Gwen Bell
+              ul.nav
+                each doc in getCollection('pages').toJSON()
+                  - clazz = (document.url === doc.url) ? 'active' : null 
+                  li(typeof="sioc:Page", about=doc.url, class=clazz)
+                    a(href=doc.url, property="dc:title")= doc.title 
+
+              ul.nav.pull-right  
+                li <a href="mailto:gwen@gwenbell.com"><i class="icon-envelope"></i></a>
+                li <a href="http://github.com/gwenbell"><i class="icon-github-alt"></i></a>
+                li <a href="/atom.xml"><i class="icon-rss" target="_blank"></i></a>
