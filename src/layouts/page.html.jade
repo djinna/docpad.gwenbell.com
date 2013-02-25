@@ -2,6 +2,17 @@
 layout: default
 ---
 
-article#page.page
-  h1= document.title
-  .page-content!= content
+
+
+
+.container.container-main
+	.row
+		.span8
+
+			article#page.page
+				
+				h1= document.title
+				.page-content!= content
+
+		.span4
+          include sidebar.html
