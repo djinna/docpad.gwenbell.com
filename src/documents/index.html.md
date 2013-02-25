@@ -1,6 +1,6 @@
 --- 
-layout: 'default'
-title: 'Stream'
+layout: 'page'
+title: ' '
 ---
 
 Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
