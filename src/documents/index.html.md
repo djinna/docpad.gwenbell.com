@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
+Now that my site's where I want it, looking for new projects. [Hit me](mailto:gwen@gwenbell.com) if you need some programming help.
 ==========================================================
+
+25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
 
 24 Feb 2013 | Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
 
