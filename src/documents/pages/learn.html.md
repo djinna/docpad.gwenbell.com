@@ -9,14 +9,14 @@ Get Started
 
 I teach digital self reliance. 
 
-Digital self reliance means maintaining your own presence online. This means learning Git, Javascript, and hosting own apps on your own VPS. 
+Digital self reliance means maintaining your own presence online. This means learning Git, JavaScript, and hosting your own apps on your own VPS. Let's start with git.
 
 Why Learn Git
 -------------
 
 Git is a version control system. It's the singlemost important technology I use right now. See my current commits to git [here](https://github.com/gwenbell).
 
-I can't tell you the number of people I know who manage large code bases and don't use version control. I'm not sure why, but since I've learned git, I won't go back to doing it the hard way.
+I can't tell you the number of people I know who manage large code bases and don't use version control. Since I've learned git, I won't go back to doing it the hard way. It's now a part of my daily process.
 
 What You'll Learn
 -----------------
@@ -43,4 +43,4 @@ Who am I to teach you?
 
 I teach. Before this, I taught yoga in my yoga studio in Yokohama. Before that I taught English in Kiryu. Before that, I taught English in Tokyo. I love teaching. It's what I'm called to do. 
 
-I like starting with git - which is a [version control system](http://git-scm.com/), I teach one on one (over WebRTC) and in person. I can help you get your own VPS up and running so you can run Node and get a site up and running in a few hours. It's about self-reliance. You can do all this on your own, but sometimes you need tech support. I can help.
+I start with git - a [version control system](http://git-scm.com/). I can work with you one on one (over WebRTC) and in person. I can help you get your own VPS up and running so you can run Node and get a site up and running in a few hours. It's about self-reliance. You can do all this on your own, but sometimes you need tech support. I can help.
