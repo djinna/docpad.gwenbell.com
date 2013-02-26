@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-New: [Videos!](http://gwenbell.com/pages/video)
-===============================================
+Do yourself a favor. Today, go through and delete everything you can that you published to the web prior to January 1 2013.
+===================================================================
+
+25 Feb 2013 | New: [Videos!](http://gwenbell.com/pages/video)
 
 25 Feb 2013 | Now that my site's where I want it, taking on new projects. [Hit me](mailto:gwen@gwenbell.com) if you need some programming skillz.
 
