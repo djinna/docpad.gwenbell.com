@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Now that my site's where I want it, looking for new projects. [Hit me](mailto:gwen@gwenbell.com) if you need some programming help.
-==========================================================
+New: [Videos!](http://gwenbell.com/pages/video]
+===============================================
+
+25 Feb 2013 | Now that my site's where I want it, taking on new projects. [Hit me](mailto:gwen@gwenbell.com) if you need some programming skillz.
 
 25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
 
