@@ -9,7 +9,7 @@ Get Started
 
 I teach digital self reliance. 
 
-Digital self reliance means maintaining your own presence online. This means learning Git, JavaScript, and hosting your own apps on your own VPS. Let's start with git.
+I launch, and teach others how to launch, deployables. 
 
 Why Learn Git
 -------------
@@ -23,7 +23,7 @@ What You'll Learn
 
 + how to document your work using a git workflow
 + how to manage projects across space/time/multiple team members
-+ how to deploy
++ how to create your own deployables
 + how to create and merge pull requests
 + the basics of git to get up and running (cloning in, making commits, pushing and pulling)
 
@@ -41,6 +41,8 @@ Bonus: if you're not a developer, but you work with developers, you can see if t
 Who am I to teach you?
 ----------------------
 
-I teach. Before this, I taught yoga in my yoga studio in Yokohama. Before that I taught English in Kiryu. Before that, I taught English in Tokyo. I love teaching. It's what I'm called to do. 
+I teach. Before this, I taught yoga in my yoga studio in Yokohama. Before that I taught English in Kiryu. Before that, I taught English in Tokyo. Before that, at a meditation retreat with Thich Nhat Hanh I was given the Buddhist name Lovely Teacher of the Heart. What can I say, it stuck.
 
-I start with git - a [version control system](http://git-scm.com/). I can work with you one on one (over WebRTC) and in person. I can help you get your own VPS up and running so you can run Node and get a site up and running in a few hours. It's about self-reliance. You can do all this on your own, but sometimes you need tech support. I can help.
+I start with git - a [version control system](http://git-scm.com/). I can work with you one on one (over WebRTC) and in person. I can help you get your own VPS up and running so you can run Node and get a site up and running in a few hours. 
+
+It's about self-reliance. You can do all this on your own, but sometimes you need tech support. I can help.
