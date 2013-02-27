@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Oh hai! Turns out lots of you wanting programmy things. I spent all day on other people's projects. (In the best way possible.)
-===================================================================
+[Reading the Jade lang docs](https://github.com/visionmedia/jade#readme)
+========================================================================
+
+27 Feb 2013  Oh hai! Turns out lots of you wanting programmy things. I spent all day on other people's projects. (In the best way possible.)
 
 26 Feb 2013 | Do yourself a favor. Today, go through and delete everything you can that you published to the web prior to January 1 2013.
 
@@ -69,39 +71,3 @@ Oh hai! Turns out lots of you wanting programmy things. I spent all day on other
 3 Feb 2013 | Practiced in the early morning darkness. Reminds me of something Vanda Scaravelli said.
 
 2 Feb 2013 | Playing with [Holla for WebRTC](https://github.com/wearefractal/holla).
-
-31 Jan 2013 | Thank you whoever just sent .1337 BTC. So leet.
-
-31 Jan 2013 | "Every day brings me a greater sense of gratitude." - [Michael Santos on life outside](http://www.slate.com/blogs/quora/2013/01/25/how_is_life_outside_after_being_in_prison_for_over_20_years.html), after spending twenty years in prison
-
-30 Jan 2013 | [Airbnb launches their first Node app](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product)
-
-29 Jan 2013 | Just heard my grandfather say the word "bitcoin" and felt totally shocked. Then, this! [Bitcoin's Gains May Fuel Central Bank Concerns](http://www.bloomberg.com/news/2013-01-28/bitcoin-s-gains-may-fuel-central-bank-concerns-chart-of-the-day.html). w00t! 
-
-27 Jan 2013 | Writing Digital Warriorship, version 3
-
-27 Jan 2013 | Beauty of the hacker schedule: stillness in which to work.
-
-27 Jan 2013 | I would like to have [this song's](https://new.myspace.com/video/shake-it-out-108244544) baby.
-
-27 Jan 2013 | Had one of those funny come to Jesus mornings. Happy to report it ended in syrup.
-
-26 Jan 2013 | Reading about the [post-scarcity economy](http://edge.org/response-detail/23860)
-
-26 Jan 2013 | Published [new about](http://gwenbell.com/pages/about)
-
-23 Jan 2013 | Eating brats, coding, deploying.
-
-23 Jan 2013 | Yes gradients! And Mumford+Sons!
-
-22 Jan 2013 | New site live, testing Byobu.
-
-20 Jan 2013 | Drake. Coffee. Code.
-
-20 Jan 2013 | Tired, but getting somewhere. Mate mug two. Probably nap o'clock.
-
-20 Jan 2013 | Joking around about Ruby, rubbing in the frankincense + myrrh shea butter, watching breath and posture. Late nights, quiet time for coding.
-
-19 Jan 2013 | Writing, shaping, pruning, stretching
-
-18 Jan 2013 | Mug of tea, pile of notecards, dabblet.com, 5 tabs open in Sublime Text. It's that time.
