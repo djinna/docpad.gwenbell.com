@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Do yourself a favor. Today, go through and delete everything you can that you published to the web prior to January 1 2013.
+Oh hai! Turns out lots of you wanting programmy things. I spent all day on other people's projects. (In the best way possible.)
 ===================================================================
+
+26 Feb 2013 | Do yourself a favor. Today, go through and delete everything you can that you published to the web prior to January 1 2013.
 
 25 Feb 2013 | New: [Videos!](http://gwenbell.com/pages/video)
 
