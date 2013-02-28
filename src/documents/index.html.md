@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-[Reading the Jade lang docs](https://github.com/visionmedia/jade#readme)
-========================================================================
+Do it for love, or not at all!
+==============================
+
+27 Feb 2013 | [Reading the Jade lang docs](https://github.com/visionmedia/jade#readme)
 
 27 Feb 2013  Oh hai! Turns out lots of you wanting programmy things. I spent all day on other people's projects. (In the best way possible.)
 
