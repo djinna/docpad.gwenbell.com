@@ -3,8 +3,9 @@ layout: 'page'
 title: ' '
 ---
 
-Do it for love, or not at all!
+Down to the last few pages of [A Chinese Life](http://www.guardian.co.uk/books/2012/oct/12/chinese-life-li-kunwu-p-otie-review). I am savoring them.
 ==============================
+27 Feb 2013 | Do it for love, or not at all!
 
 27 Feb 2013 | [Reading the Jade lang docs](https://github.com/visionmedia/jade#readme)
 
