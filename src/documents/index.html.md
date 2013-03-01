@@ -5,7 +5,7 @@ title: ' '
 
 Finished A Chinese Life. Rebuilding Node chat from scratch. I will dream about it, and reapproach come morning.
 ==============================
-28 Feb 2013 | Down to the last few pages of [A Chinese Life](http://www.guardian.co.uk/books/2012/oct/12/chinese-life-li-kunwu-p-otie-review). I am savoring them.
+28 Feb 2013 | Down to the last few pages of [A Chinese Life](http://www.guardian.co.uk/books/2012/oct/12/chinese-life-li-kunwu-p-otie-review/print). I am savoring them.
 
 27 Feb 2013 | Do it for love, or not at all!
 
