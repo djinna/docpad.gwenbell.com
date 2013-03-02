@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-March [theme songs](https://new.myspace.com/mattandkim/videos) courtesy Matt & Kim!
+When I lived in Seattle I lived in the apartment directly above [Allen Stone](https://new.myspace.com/allenstone). Next, I want to move to NYC and live in the apartment directly above [Matt & Kim](http://new.myspace.com/mattandkim/).
 ==============================
+
+1 Mar 2013 | March [theme songs](https://new.myspace.com/mattandkim/videos) courtesy Matt & Kim!
 
 28 Feb 2013 | Finished A Chinese Life. Rebuilding Node chat from scratch. I will dream about it, and reapproach come morning.
 
