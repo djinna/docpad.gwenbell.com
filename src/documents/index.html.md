@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-When I lived in Seattle I lived in the apartment directly above [Allen Stone](https://new.myspace.com/allenstone). Next, I want to move to NYC and live in the apartment directly above [Matt & Kim](http://new.myspace.com/mattandkim/).
+Today: Hyperboria, site work, Github, deploying, Socialno.de, Hyperboria, Myspace, yoga, Eloquent Javascript, shower. Food.
 ==============================
+
+1 Mar 2013 | When I lived in Seattle I lived in the apartment directly above [Allen Stone](https://new.myspace.com/allenstone). Next, I want to move to NYC and live in the apartment directly above [Matt & Kim](http://new.myspace.com/mattandkim/).
 
 1 Mar 2013 | March [theme songs](https://new.myspace.com/mattandkim/videos) courtesy Matt & Kim!
 
