@@ -18,7 +18,7 @@ Zero. I think Melbourne is coming into its own. And through your eyes, I have be
 
 ## What do you do each day? (practices) 
 
-I write each day. I practice yoga and I do upper body strength practices. I drink coffee and talk with other people doing the work.
+I write each day. I practice yoga and I do upper body strength practices. I drink coffee and talk with other people doing the work. I [commit](http://github.com/gwenbell) each day.
 
 ## How do you earn bitcoins? (to live) 
 
