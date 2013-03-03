@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Today: Hyperboria, site work, Github, deploying, Socialno.de, Hyperboria, Myspace, yoga, Eloquent Javascript, shower. Food.
+New piece, thanks to [Ross Hill](http://rosshill.com.au/). [SAQ: Sometimes Asked Questions](http://gwenbell.com/pages/saq).
 ==============================
+
+2 Mar 2013 | Today: Hyperboria, site work, Github, deploying, Socialno.de, Hyperboria, Myspace, yoga, Eloquent Javascript, shower. Food.
 
 1 Mar 2013 | When I lived in Seattle I lived in the apartment directly above [Allen Stone](https://new.myspace.com/allenstone). Next, I want to move to NYC and live in the apartment directly above [Matt & Kim](http://new.myspace.com/mattandkim/).
 
