@@ -64,8 +64,6 @@ Now, that's not to disparage the early days of Twitter. It was a brilliant idea 
 
 At the same time, it's a very different thing than it was. I had to leave.
 
-F---book? Are you kidding me? It's the 2013 version of cocaine. I've been out for 2.5 years. If you're still on there, you're lost to me.
-
 ## Why are you living in a basement? Why are you living in America? How do you decide where to live? 
 
 I moved into my grandmother's basement at the end of 2012. I'd traveled the globe looking for what's next in tech. It took me all over the world and I didn't find it out there. Actually, a lot of screens showed the same blue box that is F---book. That's where a lot of people were. I blame that addiction for killing off much of the ingenuity amongst entrepreneurs. Yes! Get mad and send angry emails if you want; I am 100% sure it's a cess pool in there.
@@ -85,6 +83,8 @@ Maybe because it breaks me.
 What is there to see of any interest past one month back? I think it should be shorter! I think it should be just a week long. But, I keep it at a month for now because if you're a first time reader on the site you need at least a little somethin' to get your bearings.
 
 What is not ephemeral? What about the web leads people to think it's going to be around forever? We're all passing as we speak. Anything I'm precious about I work hard to root out - most of all, my own cherished beliefs about myself.
+
+(Side note: because I commit on Github, there's always technically a record of everything. And as you pointed out, Ross, crawlers crawl - nothing is completely gone, but what I choose to display is like a bonsai tree I'm constantly trimming.)
 
 ## In a world of untethering, what do you hold closest? 
 
@@ -106,7 +106,7 @@ The fact that Twitter no longer scared, or delighted, or thrilled, or intrigued 
 
 ## What excites you most? 
 
-I am fascinated by the new, emerging web on Hyperboria. I'm curious about Bitcoin. I'm fascinated by people in the Node community. I read several books a week. Most recently two graphic novels.
+I am fascinated by the new, emerging web on Hyperboria. I'm curious about Bitcoin. I'm fascinated by people in the Node community. I read several books a week. Most recently two graphic novels: [A Chinese Life](http://www.guardian.co.uk/books/2012/oct/12/chinese-life-li-kunwu-p-otie-review) and [Calling Dr Laura](http://nicolejgeorges.com/?page_id=157).
 
 ## What are the common qualities of the people you connect with? 
 
@@ -128,9 +128,7 @@ It's the only thing I agree with Rushkoff on: program or be programmed.
 
 ## Which sites do you load every day? 
 
-I load Preev to check how Bitcoin's holding up. I check Hyperboria (socialno.de is a source of nourishment). I commit code to Github. I pop into stackvm on irc. I check in on Hacker News. I check my email with Thunderbird. If I need to search for something I use duckduckgo.com. When coding, I use Sublime Text 2. I listen to the new myspace when I'm working out.
-
-I check into pinboard.in about once a week. I read no blogs on a regular basis.
+I load [Preev](http://preev.com/) to check how Bitcoin's holding up. I check Hyperboria. [Socialno.de](http://socialno.de/gwen) (Hyperboria only link) is a source of nourishment. I commit code to [Github](https://github.com/gwenbell). I pop into stackvm on [irc](http://subway.gwenbell.com/). I check in on [Hacker News](http://news.ycombinator.com/). I check my email with Thunderbird. If I need to search for something I use duckduckgo.com. When coding, I use Sublime Text 2. I listen to the new myspace when I'm working out. I check into [pinboard.in](http://pinboard.in/u:gwenbell) about once a week. I read no blogs on a regular basis.
 
 ## What is inside Hyperboria?
 
