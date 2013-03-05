@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-So. Happy news. NYC, get ready.
+Oh. [More happy news!](https://www.namecheap.com/support/payment-options/bitcoin.aspx) One more thing you can buy with your bitcoins!
 ==============================
+
+3 Mar 2013 | So. Happy news. NYC, get ready.
 
 2 Mar 2013 | Just watched an informative talk with [CJD](https://github.com/cjdelisle) on CJDNS, mesh networks, routing protocols, the works. (Shared on socialno.de, come find me!)
 
