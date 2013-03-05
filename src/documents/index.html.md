@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Just watched an informative talk with [CJD](https://github.com/cjdelisle) on CJDNS, mesh networks, routing protocols, the works. (Shared on socialno.de, come find me!)
+So. Happy news. NYC, get ready.
 ==============================
+
+2 Mar 2013 | Just watched an informative talk with [CJD](https://github.com/cjdelisle) on CJDNS, mesh networks, routing protocols, the works. (Shared on socialno.de, come find me!)
 
 2 Mar 2013 | New piece, thanks to [Ross Hill](http://rosshill.com.au/). [SAQ: Sometimes Asked Questions](http://gwenbell.com/pages/saq).
 
