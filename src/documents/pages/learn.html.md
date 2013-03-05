@@ -4,22 +4,10 @@ layout: page
 pageOrder: 4
 ---
 
-Get Started
------------
+Here's a technology I think has changed the world, but it's pretty underappreciated. It's git. Git is a version control system. Since I've learned git, I won't go back to doing it the hard way. It's now a part of my daily process. If you want to learn it, but don't want to do it on your own, I can help.
 
-I teach digital self reliance. 
-
-I launch, and teach others how to launch, deployables. 
-
-Why Learn Git
--------------
-
-Git is a version control system. It's the singlemost important technology I use right now. See my current commits to git [here](https://github.com/gwenbell).
-
-I can't tell you the number of people I know who manage large code bases and don't use version control. Since I've learned git, I won't go back to doing it the hard way. It's now a part of my daily process.
-
-What You'll Learn
------------------
+What I can teach you
+--------------------
 
 + how to document your work using a git workflow
 + how to manage projects across space/time/multiple team members
