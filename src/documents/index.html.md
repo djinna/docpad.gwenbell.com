@@ -3,7 +3,7 @@ layout: 'page'
 title: ' '
 ---
 
-6 Mar 2013 | Wild day in bitcoinlandia. Up to 50, back down to 35 right now. In other news, working on a node photo gallery deploy. Inspired by a client!
+Wild day in bitcoinlandia. Up to 50, back down to 35 right now. In other news, working on a node photo gallery deploy. Inspired by a client!
 ==============================
 
 4 Mar 2013 | Oh. [More happy news!](https://www.namecheap.com/support/payment-options/bitcoin.aspx) One more thing you can buy with your bitcoins!
