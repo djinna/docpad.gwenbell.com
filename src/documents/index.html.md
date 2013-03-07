@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Wild day in bitcoinlandia. Up to 50, back down to 35 right now. In other news, working on a node photo gallery deploy. Inspired by a client!
+Two talks by Ryan Dahl, Node's Founding Father. [1](https://www.youtube.com/watch?v=L_JKb61EalQ) and [2](https://www.youtube.com/watch?v=GhFrlX0LdFA) Stay on for the cameo at the end of 2! 
 ==============================
+
+6 Mar 2013 | Wild day in bitcoinlandia. Up to 50, back down to 35 right now. In other news, working on a node photo gallery deploy. Inspired by a client!
 
 4 Mar 2013 | Oh. [More happy news!](https://www.namecheap.com/support/payment-options/bitcoin.aspx) One more thing you can buy with your bitcoins!
 
