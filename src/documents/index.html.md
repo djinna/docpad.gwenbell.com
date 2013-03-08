@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Right as I'm getting ready to leave, suddenly I seem to be saying 'dude' 10x more often. What is this abomination?
+Ant Invasion! Must be nearly spring.
 ==============================
+
+8 Mar 2013 | Right as I'm getting ready to leave, suddenly I seem to be saying 'dude' 10x more often. What is this abomination?
 
 7 Mar 2013 | Heading to NYC!!! [Holler](mailto:gwen@gwenbell.com) if you're there. We can do coffee!
 
