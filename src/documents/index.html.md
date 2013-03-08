@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Two talks by Ryan Dahl, Node's Founding Father. [1](https://www.youtube.com/watch?v=L_JKb61EalQ) and [2](https://www.youtube.com/watch?v=GhFrlX0LdFA) Stay on for the cameo at the end of 2! 
+Heading to NYC!!! [Holler](mailto:gwen@gwenbell.com) if you're there. We can do coffee!
 ==============================
+
+7 Mar 2013 | Two talks by Ryan Dahl, Node's Founding Father. [Here's 1](https://www.youtube.com/watch?v=L_JKb61EalQ) and [here's 2](https://www.youtube.com/watch?v=GhFrlX0LdFA). Stay on for the cameo at the end of 2! 
 
 6 Mar 2013 | Wild day in bitcoinlandia. Up to 50, back down to 35 right now. In other news, working on a node photo gallery deploy. Inspired by a client!
 
