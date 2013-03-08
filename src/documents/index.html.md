@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Heading to NYC!!! [Holler](mailto:gwen@gwenbell.com) if you're there. We can do coffee!
+Right as I'm getting ready to leave, suddenly I seem to be saying 'dude' 10x more often. What is this abomination?
 ==============================
+
+7 Mar 2013 | Heading to NYC!!! [Holler](mailto:gwen@gwenbell.com) if you're there. We can do coffee!
 
 7 Mar 2013 | Two talks by Ryan Dahl, Node's Founding Father. [Here's 1](https://www.youtube.com/watch?v=L_JKb61EalQ) and [here's 2](https://www.youtube.com/watch?v=GhFrlX0LdFA). Stay on for the cameo at the end of 2! 
 
