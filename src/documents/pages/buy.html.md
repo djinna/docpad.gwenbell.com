@@ -4,11 +4,11 @@ layout: page
 pageOrder: 4
 ---
 
-I live out of one bag, and have for more than a year. This is in answer to the one questions I get most often: what do you carry with you?
+I live out of one bag, and have for more than a year. This is in answer to the one question I get most often: what do you carry with you?
 
-I prefer the question: what didn't you leave behind? These things, I didn't leave behind. These products reflect craftsmanship, longevity and beauty. Side: I don't make any money off you spending yours on these things.
+I prefer the question: what didn't you leave behind? These are the things I didn't leave behind. These products reflect craftsmanship, longevity and beauty. Side: I don't make any money off you spending yours on these things.
 
-+ Bronners. I love it. I use it for everything. I took a 3 oz. bottle but wish I could have taken a gallon of the stuff.
++ Bronners. I love it. I use it for everything. I took a 3 oz. bottle but wish I could have taken a gallon of the stuff. I hand washed my clothes with it, I wash my body with it, I would drink it in a pinch.
 
 + Sonicare toothbrush. Invest in your teeth and gums, you don't want to have to replace them.
 
