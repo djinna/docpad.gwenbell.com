@@ -1,12 +1,14 @@
 ---
-title: Buy
+title: Belongings
 layout: page
 pageOrder: 4
 ---
 
-I live out of one bag, and have for more than a year. This is in answer to the one question I get most often: what do you carry with you?
+I've lived with little for years, but the past year and a half I traveled the world with just one bag. I used to travel with wheeled luggage. Carrying everything you own in one bag as you travel is freeing. It's like learning to move all your weight into your own hands in crow.
 
-I prefer the question: what didn't you leave behind? These are the things I didn't leave behind. These products reflect craftsmanship, longevity and beauty. Side: I don't make any money off you spending yours on these things.
+Belongings is in answer to the one question I get most often: what do you carry with you?
+
+This isn't everything, but these are some of my belongings. The answer, not to the question 'what do you carry with you' but, 'what was so good you didn't delete it as you traveled?'
 
 + Bronners. I love it. I use it for everything. I took a 3 oz. bottle but wish I could have taken a gallon of the stuff. I hand washed my clothes with it, I wash my body with it, I would drink it in a pinch.
 
