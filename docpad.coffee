@@ -20,7 +20,7 @@ docpadConfig =
       ]
 
       # The default title of our website
-      title: "Sex, Tech & the Real-Time Web"
+      title: "Gwen Bell | Sex, Tech & the Real-Time Web"
 
       # The website description (for SEO)
       description: """
