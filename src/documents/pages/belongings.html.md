@@ -1,12 +1,12 @@
 ---
 title: Belongings
 layout: page
-pageOrder: 4
+pageOrder: 2
 ---
 
-I've lived with little for years, but the past year and a half I traveled the world with just one bag. I used to travel with wheeled luggage. Carrying everything you own in one bag as you travel is freeing. It's like learning to move all your weight into your own hands in crow.
+I've lived with little for years, but the past year and a half I traveled the world with just one bag. Carrying everything you own in one bag as you travel is freeing. It's like learning to move all your weight into your own hands in crow.
 
-Belongings is in answer to the one question I get most often: what do you carry with you?
+This list in progress is an answer to the one question I get most often: what do you carry with you?
 
 This isn't everything, but these are some of my belongings. The answer, not to the question 'what do you carry with you' but, 'what was so good you didn't delete it as you traveled?'
 
