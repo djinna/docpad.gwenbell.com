@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Ant Invasion! Must be nearly spring.
+Turned Nunu on to quinoa. Now she's calling all the other g-ma's talking about the "superfood my granddaughter got me hooked on". Ha!
 ==============================
+
+9 Mar 2013 | Ant Invasion! Must be nearly spring.
 
 8 Mar 2013 | Right as I'm getting ready to leave, suddenly I seem to be saying 'dude' 10x more often. What is this abomination?
 
