@@ -1,21 +1,21 @@
 ---
-title: Learn
+title: Git
 layout: page
 pageOrder: 4
 ---
 
-Here's a technology I think has changed the world, but it's pretty underappreciated. It's git. Git is a version control system. Since I've learned git, I won't go back to doing it the hard way. It's now a part of my daily process. If you want to learn it, but don't want to do it on your own, I can help.
+Git is a version control system. Since I've learned git, I won't go back to doing it the hard way. It's now a part of my daily process. 
 
-What I can teach you
+3-5 hour build shop
 --------------------
 
-+ how to document your work using a git workflow
-+ how to manage projects across space/time/multiple team members
-+ how to create your own deployables
-+ how to create and merge pull requests
-+ the basics of git to get up and running (cloning in, making commits, pushing and pulling)
++ learn how to document your work using a git workflow
++ learn how to manage projects across space/time/multiple team members
++ create your own deployables
++ learn to create and merge pull requests
++ get the basics of git to get up and running (cloning in, making commits, pushing and pulling)
 
-What We'll Do
+Git party
 -------------
 
 We get together either in a WebRTC room or in person. I demonstrate. You practice on your own machine. We build and deploy a Node.js app together, from the bare bones. If one on one, I tailor the session to your deployment needs.
@@ -25,6 +25,14 @@ Regardless of how often you touch code, if you're in tech, you'll benefit from k
 In a way, knowing the secrets of git gives you insight into how developers think, letting them do the work they do best, so you have the best possible product you can create.
 
 Bonus: if you're not a developer, but you work with developers, you can see if they're actually working or just playing on the command line to look busy.
+
+FAQ
+---
+
+Q: Can we drink and deploy?
+==========================
+
+A: Yes.
 
 Who am I to teach you?
 ----------------------
