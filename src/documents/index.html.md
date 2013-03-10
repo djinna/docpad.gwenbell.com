@@ -20,7 +20,7 @@ Ant Invasion! Must be nearly spring.
 
 2 Mar 2013 | Just watched an informative talk with [CJD](https://github.com/cjdelisle) on CJDNS, mesh networks, routing protocols, the works. (Shared on socialno.de, come find me!)
 
-2 Mar 2013 | New piece, thanks to [Ross Hill](http://rosshill.com.au/). [SAQ: Sometimes Asked Questions](http://gwenbell.com/pages/saq).
+2 Mar 2013 | New piece, thanks to [Ross Hill](http://rosshill.com.au/). [SAQ: Sometimes Asked Questions](http://gwenbell.com/posts/saq).
 
 2 Mar 2013 | Today: Hyperboria, site work, Github, deploying, Socialno.de, Hyperboria, Myspace, yoga, Eloquent Javascript, shower. Food.
 
@@ -41,8 +41,6 @@ Ant Invasion! Must be nearly spring.
 26 Feb 2013 | Do yourself a favor. Today, go through and delete everything you can that you published to the web prior to January 1 2013.
 
 25 Feb 2013 | New: [Videos!](http://gwenbell.com/pages/video)
-
-25 Feb 2013 | Now that my site's where I want it, taking on new projects. [Hit me](mailto:gwen@gwenbell.com) if you need some programming skillz.
 
 25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
 
