@@ -20,16 +20,16 @@ docpadConfig =
       ]
 
       # The default title of our website
-      title: "Gwen Bell Dot Com"
+      title: "Sex, Tech & the Real-Time Web"
 
       # The website description (for SEO)
       description: """
-        Gwen Bell is a technology consultant.
+        Gwen Bell. Technologist, git lover, all night rager.
         """
 
       # The website keywords (for SEO) separated by commas
       keywords: """
-        gwen, gwenbell, bell, digital, tech, technology, openweb, web, realtime, realtimeweb
+        gwen, gwenbell, bell, digital, tech, technology, openweb, web, realtime, realtimeweb, sex, rager, git, love
         """
 
       # The website author's name
