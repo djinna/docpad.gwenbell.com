@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-Turned Nunu on to quinoa. Now she's calling all the other g-ma's talking about the "superfood my granddaughter got me hooked on". Ha!
+Amazing. Dresses that [transform mid-stride](http://www.youtube.com/watch?v=jOPxcPrxL5w).
 ==============================
+
+10 Mar 2013 | Turned Nunu on to quinoa. Now she's calling all the other g-ma's talking about the "superfood my granddaughter got me hooked on". Ha!
 
 9 Mar 2013 | Ant Invasion! Must be nearly spring.
 
