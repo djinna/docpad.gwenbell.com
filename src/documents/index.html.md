@@ -3,8 +3,10 @@ layout: 'page'
 title: ' '
 ---
 
-[Node 10](http://blog.nodejs.org/) release announcement!
+Gate C10. Bound for New York City. It's amazing how quiet the airport is post-election-screaming season.
 ==============================
+
+11 Mar 2013 | [Node 10](http://blog.nodejs.org/) release announcement!
 
 10 Mar 2013 | Amazing. Dresses that [transform mid-stride](http://www.youtube.com/watch?v=jOPxcPrxL5w).
 
