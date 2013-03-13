@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+13 Mar 2013 | Made it!
+
 13 Mar 2013 | This flight just turned into a red eye! All good though, got some transitioning off coffeescript done. Hip, hip!
 
 12 Mar 2013 | Delays. Using the time to do site tweaks, commit and publish.
