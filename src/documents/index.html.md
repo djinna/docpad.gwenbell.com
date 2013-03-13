@@ -1,10 +1,11 @@
 --- 
-layout: 'page'
-title: ' '
+layout: page
+title: What I'm Doing Right Now
 ---
 
-Gate C10. Bound for New York City. It's amazing how quiet the airport is post-election-screaming season.
-==============================
+12 Mar 2013 | Delays. Using the time to do site tweaks, commit and publish.
+
+12 Mar 2013 | Gate C10. Bound for New York City. It's amazing how quiet the airport is post-election-screaming season.
 
 11 Mar 2013 | [Node 10](http://blog.nodejs.org/) release announcement!
 
