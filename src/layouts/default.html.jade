@@ -1,66 +1,27 @@
-- var scripts = getBlock('scripts')
-- var styles = getBlock('styles')
+!!! 5
+html
+    head
+        meta(charset'utf-8')
+        title= getPreparedTitle()
+        link(rel='shortcut icon', href='/ico/favicon.ico')
+        link(rel='stylesheet', href='/vendor/prettify.css')
+        link(rel='stylesheet', href='/vendor/twitter-bootstrap/css/bootstrap.css')
+        link(rel='stylesheet', href='/vendor/twitter-bootstrap/css/bootstrap-responsive.css')
+        link(rel='stylesheet', href='/vendor/twitter-bootstrap/css/font-awesome.min.css')
+        link(rel='stylesheet', href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700')
+        link(rel='stylesheet', href='/styles/style.css')
 
-//- Prettify Syntax Highlighting
-- scripts.add(["/vendor/prettify.js"])
-- styles.add(["/vendor/prettify.css"])
+    body
 
-//- jQuery
-- scripts.add(["/vendor/jquery.js"])
+        include navbar.jade
 
-//- Bootstrap
-- scripts.add(["/vendor/twitter-bootstrap/js/bootstrap.js"])
-- styles.add(["/vendor/twitter-bootstrap/css/bootstrap.css","/vendor/twitter-bootstrap/css/bootstrap-responsive.css","/vendor/twitter-bootstrap/css/font-awesome.min.css"])
+        .container.main
+            section#content.content!= content
 
-//- Other Scripts
-- scripts.add(["/vendor/log.js","/vendor/modernizr.js"])
-
-//- User
-- styles.add(["/styles/style.css"])
-- scripts.add(["/scripts/script.js"])
-- styles.add(["http://fonts.googleapis.com/css?family=Open+Sans:400,300,700"])
-
-doctype 5
-html(lang="en")
-  head
-
-    // Meta
-    meta(charset="utf-8")
-    meta(http-equiv="content-type", content="text/html; charset=utf-8")
-
-    //-
-      Use the .htaccess and remove these lines to avoid edge case issues.
-      More info: h5bp.com/i/378
-    meta(http-equiv="X-UA-Compatible", content="IE=edge,chrome=1")
-
-    //- Our site title and description
-    title= getPreparedTitle()
-    meta(name="description", content=getPreparedDescription())
-    meta(name="keywords", content=getPreparedKeywords())
-    meta(name="author", content=site.author || '')
-    link(href="/atom.xml", rel="alternate", type="application/rss+xml")
+        
+        script(type='text/javascript', src='vendor/prettify.js')
+        script(type='text/javascript', src='http://code.jquery.com/jquery.js')
+        script(type='text/javascript', src='/vendor/twitter-bootstrap/js/bootstrap.js')
+        script(type='text/javascript', src='/scripts/script.js')
 
 
-    //- Mobile viewport optimized: h5bp.com/viewport
-    meta(name="viewport", content="width=device-width")
-
-    // Icons
-    link(rel="shortcut icon", href="/ico/favicon.ico")
-
-    //- Shims: IE6-8 support of HTML5 elements
-    //if lt IE 9
-      script(async src="http://html5shim.googlecode.com/svn/trunk/html5.js")
-
-    // Styles
-    != styles.toHTML()
-
-  body
-
-    // Markup
-    include navbar.jade
-    
-    section#content.content!= content
-    
-      
-    // Scripts
-    != scripts.toHTML()
