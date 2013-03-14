@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+13 Mar 2013 | Inbox lit up like a christmas tree. Y'all give me a few to get back to you, am processing as fast as I can, while settling into Brooklyn.
+
 13 Mar 2013 | Made it!
 
 13 Mar 2013 | This flight just turned into a red eye! All good though, got some transitioning off coffeescript done. Hip, hip!
