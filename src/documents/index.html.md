@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+13 Mar 2013 | [Why does the blockchain matter?](http://gwenbell.com/posts/whydoestheblockchainmatter)
+
 13 Mar 2013 | Inbox lit up like a christmas tree. Y'all give me a few to get back to you, am processing as fast as I can, while settling into Brooklyn.
 
 13 Mar 2013 | Made it!
