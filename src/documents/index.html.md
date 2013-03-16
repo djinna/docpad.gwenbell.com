@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+15 Mar 2013 | Met Abe at Outlier in Brooklyn to thank him. [Here he is](http://localhost:9778/posts/outlier).
+
 15 Mar 2013 | Mad, fast, deep love for this city.
 
 15 Mar 2013 | Slept for 12 hours straight. Was that tuckered.
