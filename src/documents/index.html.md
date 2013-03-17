@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+16 Mar 2013 | Long, fun and exhausting day. Ended in about 8 hands of Uno. I won 5 of the 8. And we all left the table still friendly.
+
 15 Mar 2013 | Met Abe at Outlier in Brooklyn to thank him. [Here he is](http://gwenbell.com/posts/outlier).
 
 15 Mar 2013 | Mad, fast, deep love for this city.
