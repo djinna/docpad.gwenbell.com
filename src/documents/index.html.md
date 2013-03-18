@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+18 Mar 2013 | Writing a new book. Listening to Freelance Whales. Come find me on new.myspace.com and let me hear what you're diggin' on right now.
+
 17 Mar 2013 | Working on personal publishing platform (dev from ground, up). Starting apartment interviews. 
 
 16 Mar 2013 | Long, fun and exhausting day. Ended in about 8 hands of Uno. I won 5 of the 8. And we all left the table still friendly.
