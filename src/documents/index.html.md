@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+19 Mar 2013 | Sent a letter. Eating sausage. Feeling good! By the way, if you haven't read [this piece on why James Whittaker left Google](http://blogs.msdn.com/b/jw_on_tech/archive/2012/03/13/why-i-left-google.aspx), it parallels why I left Google.
+
 18 Mar 2013 | [Thoughtful discussion](https://news.ycombinator.com/item?id=5397864) around bitcoin today, as it hits 50USD. And Cyprus does...some [questionable things](https://news.google.com/news?ned=us&q=cyprus&btnG=Search+News).
 
 18 Mar 2013 | Writing a new book. Listening to Freelance Whales. Come find me on new.myspace.com and let me hear what you're diggin' on right now.
