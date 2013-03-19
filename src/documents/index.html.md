@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+18 Mar 2013 | [Thoughtful discussion](https://news.ycombinator.com/item?id=5397864) around bitcoin today, as it hits 50USD. And Cyprus does...some [questionable things](https://news.google.com/news?ned=us&q=cyprus&btnG=Search+News).
+
 18 Mar 2013 | Writing a new book. Listening to Freelance Whales. Come find me on new.myspace.com and let me hear what you're diggin' on right now.
 
 17 Mar 2013 | Working on personal publishing platform (dev from ground, up). Starting apartment interviews. 
