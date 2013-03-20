@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+20 Mar 2013 | Wow. My TinyLetter inbox is stuffed and overflowing with love today. Today I have three in person appointments and a date with a yoga mat. I will read all and respond as time allows. Yay! 
+
 19 Mar 2013 | Receiving so much love in response to today's letter, and your replies are all beautifully displayed in TinyLetter. Replying as they come in. Touched, and grateful.
 
 19 Mar 2013 | Sent a letter. Eating sausage. Feeling good! By the way, if you haven't read [this piece on why James Whittaker left Google](http://blogs.msdn.com/b/jw_on_tech/archive/2012/03/13/why-i-left-google.aspx), it parallels why I left Google.
