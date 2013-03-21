@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+21 Mar 2013 | Lot of you have written to ask why New York? This is my answer. The final scene of the final episode of Six Feet Under.
+
 20 Mar 2013 | Holy wow. What a day.
 
 20 Mar 2013 | Wow. My TinyLetter inbox is stuffed and overflowing with love today. Today I have three in person appointments and a date with a yoga mat. I will read all and respond as time allows. Yay! 
