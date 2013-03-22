@@ -19,3 +19,5 @@ This isn't everything, but these are some of my belongings. The answer, not to t
 + [Outlier](http://outlier.cc/). US-based company making the best pants known to man. They'll set you back a cool $225. I wore a pair for a year straight while traveling the globe. And Abe, the CEO, actually responded personally when I pitched him on a crazy idea from Singapore.
 
 + [Eloquent JavaScript](http://eloquentjavascript.net/) The one book I own a physical copy of at the moment. Beautiful book, beautifully written and bound.
+
++ [Leica D-Lux 5](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/) I bought this Leica in 2011 and have enjoyed it nearly every day since. Perfectly crafted, the photos it produces are a reflection of the care that went into creating this camera.
