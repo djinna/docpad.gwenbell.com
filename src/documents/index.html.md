@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+22 Mar 2013 | Delighted to step into [Substack's mind for a minute](http://substack.net/how_I_write_modules).
+
 22 Mar 2013 | [Google Killed Me](http://amywilentz.tumblr.com/post/44228865923/google-killed-me) -- Amy Wilentz perfectly captures why I distrust Google and no longer use any of their services (save the occasional youtube vid, which I'm almost off thanks to new.myspace.com). Must-read piece - and pass it on.
 
 21 Mar 2013 | That feeling where you can't wind down because you're so freaking excited? That.
