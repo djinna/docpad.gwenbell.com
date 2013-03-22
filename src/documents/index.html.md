@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+22 Mar 2013 | [Google Killed Me](http://amywilentz.tumblr.com/post/44228865923/google-killed-me) -- Amy Wilentz perfectly captures why I distrust Google and no longer use any of their services (save the occasional youtube vid, which I'm almost off thanks to new.myspace.com). Must-read piece - and pass it on.
+
 21 Mar 2013 | That feeling where you can't wind down because you're so freaking excited? That.
 
 21 Mar 2013 | Lot of you have written to ask why New York? This is my answer. The final scene of the final episode of Six Feet Under.
