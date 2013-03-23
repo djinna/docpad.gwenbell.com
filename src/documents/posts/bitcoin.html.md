@@ -5,11 +5,11 @@ tags: ['money', 'bitcoin', 'how-to']
 layout: post
 ---
 
-Bitcoin clicked for me in Japan.
+Bitcoin clicked for me, summer 2012 in Japan.
 
-A Japanese hippie came into the tent, and he talked to the other Japanese hippie who was polishing a wooden ball with a spoon. 
+A Japanese hippie came into the tent I was in. He talked to the other Japanese hippie who was polishing a wooden ball with a spoon. 
 
-I've never really seen Japanese people sit around, smelling like patchouli, drinking rum chai. But here we were, and what if, I thought. What if instead of thinking about the conversion rate from the dollar to the yen, what if I could just pay these hippies in a universal denomination: bitcoin. 
+Until that moment in Kyoto, I'd never really seen Japanese people sit around, smelling like patchouli, drinking rum chai. But here we were, and what if, I thought. What if instead of thinking about the conversion rate from the dollar to the yen, what if I could just pay these hippies in a universal denomination: bitcoin. 
 
 This is what I wrote into my notebook that day:
 
