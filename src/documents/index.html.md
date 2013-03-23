@@ -7,7 +7,7 @@ title: What I'm Doing Right Now
 
 22 Mar 2013 | Delighted to step into [Substack's mind for a minute](http://substack.net/how_I_write_modules).
 
-22 Mar 2013 | [Google Killed Me](http://amywilentz.tumblr.com/post/44228865923/google-killed-me) -- Amy Wilentz perfectly captures why I distrust Google and no longer use any of their services (save the occasional youtube vid, which I'm almost off thanks to new.myspace.com). Must-read piece - and pass it on.
+22 Mar 2013 | [*Poogle Killed Me](http://amywilentz.tumblr.com/post/44228865923/google-killed-me) -- Amy Wilentz perfectly captures why I distrust Poogle and no longer use any of their services (save the occasional youtube vid, which I'm almost off thanks to new.myspace.com). Must-read piece - and pass it on. *Title edited by one letter.
 
 21 Mar 2013 | That feeling where you can't wind down because you're so freaking excited? That.
 
@@ -94,10 +94,6 @@ title: What I'm Doing Right Now
 25 Feb 2013 | New: [Videos!](http://gwenbell.com/pages/video)
 
 25 Feb 2013 | [31 Days of Commits](http://gwenbell.com/posts/31daysofcommits)
-
-24 Feb 2013 | Oh my gosh. We [chatted](http://chat.gwenbell.com/), peeps! That was so great. There were brownies. Also, I read [this book](http://nicolejgeorges.com/?page_id=157) last week and it is sweet and honest and good like a book should be.
-
-23 Feb 2013 | We can now chat together at [chat.gwenbell.com](http://chat.gwenbell.com/).
 
 22 Feb 2013 | Let's chat! New node chat server deployed at [gwenbell.com:5050](http://gwenbell.com:5050/). Still working out the kinks. Let me know by email, github or carrier pigeon if you can't connect.
 
