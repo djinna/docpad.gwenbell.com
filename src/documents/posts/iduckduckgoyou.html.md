@@ -5,7 +5,7 @@ tags: ['code','post', 'work', 'how-to']
 date: Fri Feb 22 12:05:39 EST 2013
 ---
 
-This time last year I wrote a piece to the list.*
+This time last year I wrote a piece to the list.
 
 I wrote about the steps I take when a reader sends me an email. This was the nut graph: I Google you the first time I receive an email from you. I didn't expect the response I got. It was a wide range of responses, most of which boiled down to: how _dare_ you google me when I email you.
 
@@ -16,9 +16,9 @@ Anyway, this is an update on that piece. I don't google you anymore. Now I duck 
 I Duck Duck Go You
 ------------------
 
-In my experience, as of February 2013, Duck Duck Go is in all ways superior to Google. I deleted my Google account at the end of 2012 and haven't missed it at all. (Yes, that means I gave up my six year old email address, and calendar, and all things G. And no. I don't miss any of it.)
+I deleted my Google account at the end of 2012 and haven't missed it at all. (Yes, that means I gave up my six year old email address, and calendar, and all things G. And no. I don't miss any of it.)
 
-When I duck duck go you, I get different results than you get if you're Googling yourself. Google, from what I experienced, reflects the results you the user most want to see. It's called a filter bubble. 
+When I duck duck go you, I get different results than you get if you're Googling yourself. Google, from what I experienced, reflects the results you the user most want to see. It's called a filter bubble.
 
 Duck Duck Go doesn't [filter bubble me](http://dontbubble.us/). I like that.
 
@@ -35,7 +35,4 @@ Now, I know with web 2.0 services always provided a delete button. And now, the 
 
 Nothing beats having your own site. That's what I'm always looking for. I'll scroll to the end of the first page of results looking for a personal site before clicking on a generic flavors or tumblr or about profile. 
 
-I don't have a profile on the major social networks, so if you're behind a login wall, I will never see anything you're working on, ever. I think this should go without saying, but somehow it doesn't.
-
-<p class="muted">*Subscribers received daily messages I sent to inboxes from mid-2011 to 2012</p>
-
+I don't have a profile on any major social networks so if you're behind a login wall, I will never see anything you're working on, ever. I think this should go without saying, but somehow it doesn't.
