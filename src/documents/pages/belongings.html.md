@@ -25,3 +25,5 @@ These are some of my belongings. The answer, not to the question 'what do you ca
 + [Eloquent JavaScript](http://eloquentjavascript.net/) The one book I own a physical copy of at the moment. Beautiful book, beautifully written and bound.
 
 + [Leica D-Lux 5](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/) I bought this Leica in 2011 and have enjoyed it nearly every day since. Perfectly crafted, the photos it produces are a reflection of the care that went into creating this camera.
+
+If you have a specific question about something I've mentioned in the past but no longer list here, [email me](mailto:gwen@gwenbell.com). I'll add it if it's something I still use.
