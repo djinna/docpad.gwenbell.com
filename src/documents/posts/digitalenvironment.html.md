@@ -5,6 +5,10 @@ tags: ['new','post','tech', 'work', 'dev', 'linux']
 date: Thurs Feb 7 05:49:10 EST 2013
 ---
 
+23 March 2013 Update: I'm now back on the Mac operating system. Though I prefer Ubuntu, it doesn't work as seamlessly with my Air as I'd hoped. I tried it for 6 months and will eventually transition back.
+
+--
+
 I started with a clean install of Ubuntu today. Here's what I start with from a clean install. 
 
 This tutorial is for you you're new to Linux and want to get up and running fast, or if you just enjoy looking over other people's shoulders to see how they organize their digital environments to work.
