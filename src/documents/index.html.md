@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+23 Mar 2013 | Drinking espresso, making site tweaks, listening to the sounds of bass thumping.
+
 23 Mar 2013 | Pre-sunrise yerba mate in the kitchen.
 
 22 Mar 2013 | "If successful it would question the need for a money-printing central authority and become a universal currency." - Dr Alvaro Feito [explains Bitcoin](http://alvarofeito.com/articles/the-big-book-of-bitcoin)
