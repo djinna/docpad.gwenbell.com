@@ -3,6 +3,10 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+24 Mar 2013 | NYC radio might be the best radio in the world. Is this your experience?
+
+24 Mar 2013 | Woke before the cocks crowed. Wrote code. Responded to readers. Hand-wrote a letter of gratitude. Consumed at least three espresso shots. Listened to my current favorite song (profile song). You have to be logged in to access; right now, the walled garden works for [the new myspace](https://new.myspace.com/gwenbell).
+
 23 Mar 2013 | Drinking espresso, making site tweaks, listening to the sounds of bass thumping.
 
 23 Mar 2013 | Pre-sunrise yerba mate in the kitchen.
