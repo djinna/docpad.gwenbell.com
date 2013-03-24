@@ -24,7 +24,7 @@ docpadConfig =
 
       # The website description (for SEO)
       description: """
-        Gwen Bell. Sex, tech and the real-time web. Node.js and Bitcoin. NYC, Brooklyn.
+        Gwen Bell. Web developer and technical writer in NYC, Brooklyn.
         """
 
       # The website keywords (for SEO) separated by commas
