@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+24 Mar 2013 | Nearly 100 responses to the last letter. Taking my time responding, spending time on your site if you included one in your reply. New letter tomorrow.
+
 23 Mar 2013 | Drinking espresso, making site tweaks, listening to the sounds of bass thumping.
 
 23 Mar 2013 | Pre-sunrise yerba mate in the kitchen.
