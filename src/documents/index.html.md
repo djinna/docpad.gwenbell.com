@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+25 Mar 2013 | Working on Git for Publishers chapter 4: There's Nothing Wrong with Forking. (working title)
+
 24 Mar 2013 | Just got back from candelit yoga with Greg at YttP. Arrived to discover a message in my inbox saying I'm trending on [geekli.st](https://geekli.st/). Ha! Perfect end to a perfect day.
 
 24 Mar 2013 | NYC radio might be the best radio in the world. Is this your experience?
