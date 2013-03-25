@@ -3,7 +3,9 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
-25 Mar 2013 | Working on Git for Publishers chapter 4: There's Nothing Wrong with Forking. (working title)
+25 Mar 2013 | Cover for Git for Publishers? Check. Guest authors? Check. Things shaping up beautifully, as New York slushes. Also, turns out my current song crush [has a video to match](http://www.youtube.com/watch?v=yX4iIPlwS5c).
+
+25 Mar 2013 | Working on Git for Publishers. Chapter 4: There's Nothing Wrong with Forking. (working title)
 
 24 Mar 2013 | Just got back from candelit yoga with Greg at YttP. Arrived to discover a message in my inbox saying I'm trending on [geekli.st](https://geekli.st/). Ha! Perfect end to a perfect day.
 
