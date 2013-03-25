@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+24 Mar 2013 | Just got back from candelit yoga with Greg at YttP. Arrived to discover a message in my inbox saying I'm trending on [geekli.st](https://geekli.st/). Ha! Perfect end to a perfect day.
+
 24 Mar 2013 | NYC radio might be the best radio in the world. Is this your experience?
 
 24 Mar 2013 | Woke before the cocks crowed. Wrote code. Responded to readers. Hand-wrote a letter of gratitude. Consumed at least three espresso shots. Listened to my current favorite song (profile song). You have to be logged in to access; right now, the walled garden works for [the new myspace](https://new.myspace.com/gwenbell).
