@@ -20,6 +20,8 @@ Where it comes to the body and well-being, I never skimp. I get my teeth checked
 
 + [Manduka](http://www.manduka.com/us/shop/categories/products/mats/eko-superlite-travel-mat/) I have it in black. Though I love it, this is not for beginner practitioners. If you're a beginner, try [this one](http://www.gaiam.com/yoga-mats/premium-sticky-yoga-mat/95-0726,default,pd.html?start=4&cgid=3010400) from Gaiam - it's what I started on.
 
++ [Neti pot](https://en.wikipedia.org/wiki/Neti_pot). So sexy. Do it.
+
 + Bronners. I love it. I use it for everything. I took a 3 oz. bottle but wish I could have taken a gallon of the stuff. I hand washed my clothes with it, I wash my body with it, I'd drink it in a pinch. Though, that's [not recommend](http://brokelyn.com/tested-the-crazy-alleged-uses-of-dr-bronners-soap/) by Brokelyn.
 
 + Sonicare toothbrush. Invest in your teeth and gums, you don't want to have to replace them.
