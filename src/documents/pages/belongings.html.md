@@ -37,9 +37,7 @@ Hardware
 
 + [Leica D-Lux 5](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/) I bought this Leica in 2011 and have enjoyed it nearly every day since. Perfectly crafted, the photos it produces are a reflection of the care that went into creating this camera.
 
-+ [iPod Nano Watch](http://www.engadget.com/2010/12/29/hex-ships-ipod-nano-watch-band-dares-you-to-destroy-it-video/) I don't own a phone. I sold my iPhone in the Mission in SF in January 2012. No, I don't miss owning a phone. Never. 
-
-Still, when Patrick offered me his circa 2010 Nano watch in Japan in July 2012, I said yes. Because I wanted to know the time, and I wanted to jam out to the beats. So, this little watch means a lot to me. I get complimented on it constantly. My hunch is Apple is overlooking a massive niche market with this.
++ [iPod Nano Watch](http://www.engadget.com/2010/12/29/hex-ships-ipod-nano-watch-band-dares-you-to-destroy-it-video/) I don't own a phone. I sold my iPhone in the Mission in SF in January 2012. No, I don't miss owning a phone. Never. Still, when Patrick offered me his circa 2010 Nano watch in Japan in July 2012, I said yes. Because I wanted to know the time, and I wanted to jam out to the beats. So, this little watch means a lot to me. I get complimented on it constantly. My hunch is Apple is overlooking a massive niche market with this.
 
 + [MacBook Air](https://www.apple.com/macbookair/) Been around the whole globe with me. I put Linux on it for six months, and am now back to the OSX. I program on it, and I write on it, and I live with this machine.
 
