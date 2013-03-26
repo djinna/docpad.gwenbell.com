@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+26 Mar 2013 | Hahaha! Nunu's response to [yesterday's video update](http://www.youtube.com/watch?v=yX4iIPlwS5c). "That was the craziest video I ever saw.  What is it supposed to convey?" I said, "If you ever start seeing dancers, like, they start popping out of the walls... gimme a call".
+
 25 Mar 2013 | Cover for Git for Publishers? Check. Guest authors? Check. Things shaping up beautifully, as New York slushes. Also, turns out my current song crush [has a video to match](http://www.youtube.com/watch?v=yX4iIPlwS5c).
 
 25 Mar 2013 | Working on Git for Publishers. Chapter 4: There's Nothing Wrong with Forking. (working title)
