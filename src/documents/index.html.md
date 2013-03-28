@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+28 Mar 2013 | "Bitcoin isn’t tied to any commodity—besides trust. As a statement on the global economy, Bitcoin is hilarious. As a currency for the disenfranchised and distrustful, it’s as serious as can be." [Paul Ford at Bloomberg Businessweek nails it](http://www.businessweek.com/articles/2013-03-28/bitcoin-may-be-the-global-economys-last-safe-haven#p2).
+
 27 Mar 2013 | [Fresh to death](https://soundcloud.com/ycthecynic/hallelujah-by-yc-the-cynic)
 
 26 Mar 2013 | Full moon over New York City tonight. Perfect night, capped with brownies and buddies.
