@@ -8,6 +8,7 @@ pageOrder: 3
   nav.linklist
     each doc in getCollection('posts').toJSON()
       p
-        span= doc.date.toShortDateString()
-        | |&nbsp;
+        span= doc.date.toDateString()
+        |  |&nbsp;
         a(href=doc.url)= doc.title
+
