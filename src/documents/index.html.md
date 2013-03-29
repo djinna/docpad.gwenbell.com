@@ -3,7 +3,7 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
-29 Mar 2013 | Walked through Hasidic Jewish Williamburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
+29 Mar 2013 | Walked through Hasidic Jewish Williamsburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
 
 28 Mar 2013 | "One customer in a queue in Nicosia told the BBC's Tim Willcox he was withdrawing the allowed daily amount of 300 euros ($383; £253) but would take out all of his money if he could." [Tim Willcox for the BBC](http://www.bbc.co.uk/news/business-21963462)
 
