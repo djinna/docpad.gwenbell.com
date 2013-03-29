@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+29 Mar 2013 | Walked through Hasidic Jewish Williamburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
+
 28 Mar 2013 | "One customer in a queue in Nicosia told the BBC's Tim Willcox he was withdrawing the allowed daily amount of 300 euros ($383; £253) but would take out all of his money if he could." [Tim Willcox for the BBC](http://www.bbc.co.uk/news/business-21963462)
 
 28 Mar 2013 | "Bitcoin isn't tied to any commodity-besides trust. As a statement on the global economy, Bitcoin is hilarious. As a currency for the disenfranchised and distrustful, it's as serious as can be." [Paul Ford at Bloomberg Businessweek nails it](http://www.businessweek.com/articles/2013-03-28/bitcoin-may-be-the-global-economys-last-safe-haven#p2).
