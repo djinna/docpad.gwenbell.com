@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+30 Mar 2013 | That was...officially...the best day of all time.
+
 29 Mar 2013 | Programming. Writing. Eating bacon cheeseburgers cooked by one master cheeseburger artist. Dancing around to Radiohead. Napping with two cats. Tubular Friday.
 
 28 Mar 2013 | Walked through Hasidic Jewish Williamsburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
