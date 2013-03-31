@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+31 Mar 2013 | Started the day finding 5 of the 48 Easter eggs. Then, won 3 Uno games in a row. Now, making commits to Git for Publishers on Gitboria. While eating banana chocolate chip pancakes, listening to Money Trees. Ya bish. 
+
 30 Mar 2013 | That was...officially...the best day of all time.
 
 29 Mar 2013 | Programming. Writing. Eating bacon cheeseburgers cooked by one master cheeseburger artist. Dancing around to Radiohead. Napping with two cats. Tubular Friday.
