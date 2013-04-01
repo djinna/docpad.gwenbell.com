@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+1 Apr 2013 |  Moved into new apt in Bed-Stuy. Settling in with yoga and the sounds of a construction crew. 
+
 31 Mar 2013 | Moving into my new apartment. In New York City. This is a first. Eeeeee!
 
 31 Mar 2013 | Started the day finding 5 of the 48 Easter eggs. Then, won 3 Uno games in a row. Now, making commits to Git for Publishers on Gitboria. While eating banana chocolate chip pancakes, listening to Money Trees. Ya bish. 
