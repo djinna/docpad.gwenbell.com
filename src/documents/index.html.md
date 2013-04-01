@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+1 Apr 2013 | This city. Is. 
+
 1 Apr 2013 |  Moved into new apt in Bed-Stuy. Settling in with yoga and the sounds of a construction crew. 
 
 31 Mar 2013 | Moving into my new apartment. In New York City. This is a first. Eeeeee!
