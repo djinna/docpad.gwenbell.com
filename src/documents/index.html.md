@@ -75,8 +75,6 @@ title: What I'm Doing Right Now
 
 15 Mar 2013 | Slept for 12 hours straight. Was that tuckered.
 
-14 Mar 2013 | [Brooklyn Firsts](http://gwenbell.com/posts/brooklynfirst)
-
 13 Mar 2013 | [Why does the blockchain matter?](http://gwenbell.com/posts/whydoestheblockchainmatter)
 
 13 Mar 2013 | Inbox lit up like a christmas tree. Y'all give me a few to get back to you, am processing as fast as I can, while settling into Brooklyn.
