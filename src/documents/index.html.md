@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+2 Apr 2013 | Unless you're Nunu, you won't hear from me for a few days. Going under to finish Git for Publishers. Check my [commits](http://github.com/gwenbell) if you're wanting to play in code! Or find me on [http://socialno.de](http://socialno.de/) (accessible by CJDNS) where I'll be blowing off steam for five minutes per day.
+ 
 1 Apr 2013 | This city. Is. 
 
 1 Apr 2013 |  Moved into new apt in Bed-Stuy. Settling in with yoga and the sounds of a construction crew. 
