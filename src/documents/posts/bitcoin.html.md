@@ -28,3 +28,13 @@ Today it's at $27.
 If I'd paid those hippies in bitcoin instead of yen that day, their btc would be worth more than double today than it was then. 
 
 Yen, [not so much](http://www.businessweek.com/stories/2006-05-11/easing-out-of-quantitative-easing).
+
+//
+
+Updated 4 Apr 2013
+
+<blockquote>The weakness in existing currencies stems from lack of faith in institutions—particularly central banks, which are often in league with commercial and investment banks.</blockquote> 
+
+<blockquote>When a government bails out a failed bank or insurance company—in essence, by printing money—the net effect is that the currency as a whole is debased, in favor of a few and at the literal expense of everyone else, which amounts to a fair description of today’s global financial system.</blockquote>  
+
+<blockquote>Hence the sudden appeal of bitcoins, which appear, for the moment, at least, to be immune to the machinations of inept or crooked bankers and politicians.</blockquote> [The Bitcoin Boom, Maria Bustillos for The New Yorker](http://www.newyorker.com/online/blogs/elements/2013/04/the-future-of-bitcoin.html)
