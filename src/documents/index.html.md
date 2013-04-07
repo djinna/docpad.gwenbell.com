@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: What I'm Doing Right Now
+title: Lifestream
 ---
 
 7 Apr 2013 | New beat: [Chinks](http://gwenbell.com/posts/chinks)
