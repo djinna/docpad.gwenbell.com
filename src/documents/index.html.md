@@ -28,21 +28,3 @@ title: What I'm Doing Right Now
 27 Mar 2013 | [Fresh to death](https://soundcloud.com/ycthecynic/hallelujah-by-yc-the-cynic)
 
 26 Mar 2013 | Full moon over New York City tonight. Perfect night, capped with brownies and buddies.
-
-26 Mar 2013 | Hahaha! Nunu's response to [yesterday's video update](http://www.youtube.com/watch?v=yX4iIPlwS5c). "That was the craziest video I ever saw.  What is it supposed to convey?" I said, "If you ever start seeing dancers, like, they start popping out of the walls... gimme a call".
-
-25 Mar 2013 | Cover for Git for Publishers? Check. Guest authors? Check. Things shaping up beautifully, as New York slushes. Also, turns out my current song crush [has a video to match](http://www.youtube.com/watch?v=yX4iIPlwS5c).
-
-25 Mar 2013 | Working on Git for Publishers. Chapter 4: There's Nothing Wrong with Forking. (working title)
-
-24 Mar 2013 | Just got back from candelit yoga with Greg at YttP. Arrived to discover a message in my inbox saying I'm trending on [geekli.st](https://geekli.st/). Ha! Perfect end to a perfect day.
-
-24 Mar 2013 | NYC radio might be the best radio in the world. Is this your experience?
-
-24 Mar 2013 | Woke before the cocks crowed. Wrote code. Responded to readers. Hand-wrote a letter of gratitude. Consumed at least three espresso shots. Listened to my current favorite song (profile song). You have to be logged in to access; right now, the walled garden works for [the new myspace](https://new.myspace.com/gwenbell).
-
-23 Mar 2013 | Drinking espresso, making site tweaks, listening to the sounds of bass thumping.
-
-23 Mar 2013 | Pre-sunrise yerba mate in the kitchen.
-
-22 Mar 2013 | "If successful it would question the need for a money-printing central authority and become a universal currency." - Dr Alvaro Feito [explains Bitcoin](http://alvarofeito.com/articles/the-big-book-of-bitcoin)
