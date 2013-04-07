@@ -3,6 +3,8 @@ layout: page
 title: What I'm Doing Right Now
 ---
 
+7 Apr 2013 | New beat: [Chinks](http://gwenbell.com/posts/chinks)
+
 2 Apr 2013 | Unless you're Nunu, you won't hear from me for a few days. Going under to finish Git for Publishers. Check my [commits](http://github.com/gwenbell) if you're wanting to play in code! Or find me on [http://socialno.de](http://socialno.de/) (accessible by CJDNS) where I'll be blowing off steam for five minutes per day.
  
 1 Apr 2013 | This city. Is. 
@@ -44,45 +46,3 @@ title: What I'm Doing Right Now
 23 Mar 2013 | Pre-sunrise yerba mate in the kitchen.
 
 22 Mar 2013 | "If successful it would question the need for a money-printing central authority and become a universal currency." - Dr Alvaro Feito [explains Bitcoin](http://alvarofeito.com/articles/the-big-book-of-bitcoin)
-
-22 Mar 2013 | Delighted to step into [Substack's mind for a minute](http://substack.net/how_I_write_modules).
-
-22 Mar 2013 | [*Poogle Killed Me](http://amywilentz.tumblr.com/post/44228865923/google-killed-me) -- Amy Wilentz perfectly captures why I distrust Poogle and no longer use any of their services (save the occasional youtube vid, which I'm almost off thanks to new.myspace.com). Must-read piece - and pass it on. *Title edited by one letter.
-
-21 Mar 2013 | That feeling where you can't wind down because you're so freaking excited? That.
-
-21 Mar 2013 | Lot of you have written to ask why New York? This is my answer. The final scene of the final episode of Six Feet Under.
-
-20 Mar 2013 | Holy wow. What a day.
-
-20 Mar 2013 | Wow. My TinyLetter inbox is stuffed and overflowing with love today. Today I have three in person appointments and a date with a yoga mat. I will read all and respond as time allows. Yay! 
-
-19 Mar 2013 | Receiving so much love in response to today's letter, and your replies are all beautifully displayed in TinyLetter. Replying as they come in. Touched, and grateful.
-
-19 Mar 2013 | Sent a letter. Eating sausage. Feeling good! By the way, if you haven't read [this piece on why James Whittaker left Google](http://blogs.msdn.com/b/jw_on_tech/archive/2012/03/13/why-i-left-google.aspx), it parallels why I left.
-
-18 Mar 2013 | [Thoughtful discussion](https://news.ycombinator.com/item?id=5397864) around bitcoin today, as it hits 50USD. And Cyprus does...some [questionable things](https://news.google.com/news?ned=us&q=cyprus&btnG=Search+News).
-
-18 Mar 2013 | Writing a new book. Listening to Freelance Whales. Come find me on new.myspace.com and let me hear what you're diggin' on right now.
-
-17 Mar 2013 | Working on personal publishing platform (dev from ground, up). Starting apartment interviews. 
-
-16 Mar 2013 | Long, fun and exhausting day. Ended in about 8 hands of Uno. I won 5 of the 8. And we all left the table still friendly.
-
-15 Mar 2013 | Met Abe at Outlier in Brooklyn to thank him. [Here he is](http://gwenbell.com/posts/outlier).
-
-15 Mar 2013 | Mad, fast, deep love for this city.
-
-15 Mar 2013 | Slept for 12 hours straight. Was that tuckered.
-
-13 Mar 2013 | [Why does the blockchain matter?](http://gwenbell.com/posts/whydoestheblockchainmatter)
-
-13 Mar 2013 | Inbox lit up like a christmas tree. Y'all give me a few to get back to you, am processing as fast as I can, while settling into Brooklyn.
-
-13 Mar 2013 | Made it!
-
-13 Mar 2013 | This flight just turned into a red eye! All good though, got some transitioning off coffeescript done. Hip, hip!
-
-12 Mar 2013 | Delays. Using the time to do site tweaks, commit and publish.
-
-12 Mar 2013 | Gate C10. Bound for New York City. It's amazing how quiet the airport is post-election-screaming season.
